@@ -136,9 +136,105 @@ def generate_exercises():
             
     print("Exercises generated.")
 
+def generate_wiki():
+    create_directory("wiki")
+    
+    # 1. HOME
+    with open("wiki/Home.md", "w", encoding="utf-8") as f:
+        f.write("""# 🧸 Welcome to MultiLang-ASM Kids Wiki!
+
+This is the official manual for the **MultiLang-ASM Kids** edition.
+
+## 📚 Contents
+- **[Troubleshooting](Troubleshooting)**: Having problems? Look here!
+- **[Instruction Reference](Reference)**: What do the magic words do?
+- **[Examples Library](Examples)**: Code examples in 27 languages.
+- **[Teacher's Guide](Teachers)**: How to use this in class.
+
+---
+*Part of the Neuro-OS Ecosystem*
+""")
+
+    # 2. TROUBLESHOOTING
+    with open("wiki/Troubleshooting.md", "w", encoding="utf-8") as f:
+        f.write("""# 🔧 Troubleshooting (Problemas y Soluciones)
+
+### ❌ "Command not found" or "no se reconoce el comando"
+**Problem:** Python is not installed or not in your PATH.
+**Solution:** Install Python 3.10+ and make sure to check "Add Python to PATH" during installation.
+
+### ❌ "Syntax Error" on line 1
+**Problem:** You are using the wrong language keywords for the detected language.
+**Solution:** 
+1. Check if you are using Spanish keywords (`pon`) in a file meant for English (`put`).
+2. Use `mlasm.py auto file.masm` to let the AI detect the language.
+
+### ❌ "Unicodeencodeerror"
+**Problem:** Windows console sometimes struggles with emojis or special characters.
+**Solution:** Use `chcp 65001` in your terminal before running the compiler.
+
+### ❌ "Output file is empty"
+**Problem:** The program ran but didn't output anything.
+**Solution:** Ensure you are using the `show` (or translated equivalent) command at the end!
+
+""")
+
+    # 3. REFERENCE (DESGLOSE DE FUNCIONES)
+    with open("wiki/Reference.md", "w", encoding="utf-8") as f:
+        f.write("""# 📖 Instruction Reference (Desglose de Funciones)
+
+In Kids Mode, we use 4 main concepts. Here is how they work:
+
+## 1. 📦 PUT (Movement)
+*Standard ASM: `MOV`*
+**Description:** Puts a value into a box (register).
+**Example:** `put rax 5` (Put number 5 into box rax)
+
+## 2. ➕ ADD (Arithmetic)
+*Standard ASM: `ADD`*
+**Description:** Adds a number to what is already in the box.
+**Example:** `add rax 2` (If box has 5, now it has 7)
+
+## 3. ➖ TAKE (Arithmetic)
+*Standard ASM: `SUB`*
+**Description:** Takes away a number from the box.
+**Example:** `take rax 1` (If box has 7, now it has 6)
+
+## 4. 👀 SHOW (System)
+*Standard ASM: `SYSCALL` (mapped for simplicity)*
+**Description:** Shows the content of the box on the screen (magic!).
+**Example:** `show rax` (Prints "6")
+
+""")
+
+    # 4. EXAMPLES (ALL LANGUAGES)
+    with open("wiki/Examples.md", "w", encoding="utf-8") as f:
+        f.write("# 🌍 Global Examples Library\n\nHere is how to write **'Hello World' (Math Edition)** in all 27 supported languages.\n\n")
+        
+        for code, lang in LANGUAGES.items():
+            f.write(f"## {lang['name']}\n")
+            f.write("```masm\n")
+            f.write(f"; {lang['name']} Code\n")
+            f.write(f"{lang['put']} rax 10\n")
+            f.write(f"{lang['add']} rax 5\n")
+            f.write(f"{lang['show']} rax\n")
+            f.write("```\n\n")
+            
+        f.write("# 🎭 Dialect Examples\n\n")
+        for code, lang in DIALECTS.items():
+            f.write(f"## {lang['name']}\n")
+            f.write("```masm\n")
+            f.write(f"{lang['put']} rax 10\n")
+            f.write(f"{lang['add']} rax 5\n")
+            f.write(f"{lang['show']} rax\n")
+            f.write("```\n\n")
+
+    print("Wiki generated.")
+
 if __name__ == "__main__":
     print("Generating MultiLang-ASM Kids Content...")
     generate_docs()
     generate_examples()
     generate_exercises()
+    generate_wiki()
     print("Done!")
