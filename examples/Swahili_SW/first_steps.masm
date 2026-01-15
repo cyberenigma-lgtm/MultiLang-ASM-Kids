@@ -1,0 +1,8 @@
+; My First Program in Swahili
+; 1. Put value 10 into 'rax'
+; 2. Add 5 to it
+; 3. Show the result
+
+weka rax 10
+ongeza rax 5
+onyesha rax

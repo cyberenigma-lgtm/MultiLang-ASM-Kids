@@ -1,0 +1,8 @@
+; My First Program in Tagalog
+; 1. Put value 10 into 'rax'
+; 2. Add 5 to it
+; 3. Show the result
+
+lagay rax 10
+dagdag rax 5
+pakita rax

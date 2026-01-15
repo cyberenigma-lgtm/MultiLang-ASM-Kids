@@ -1,0 +1,4 @@
+; Slang Demo in English (Texas)
+hitch rax 100
+cut rax 50
+spy rax

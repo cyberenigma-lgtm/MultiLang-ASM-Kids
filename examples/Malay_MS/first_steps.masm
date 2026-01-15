@@ -1,0 +1,8 @@
+; My First Program in Malay
+; 1. Put value 10 into 'rax'
+; 2. Add 5 to it
+; 3. Show the result
+
+letak rax 10
+tambah rax 5
+tunjuk rax

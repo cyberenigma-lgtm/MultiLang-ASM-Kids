@@ -1,0 +1,8 @@
+; CHALLENGE 1: The Candy Counting
+; You have 5 candies (rax).
+; You get 3 more.
+; How many do you have?
+
+zet rax 5
+; TODO: Add 3 using 'tel_op' command
+; TODO: Show the result using 'toon' command

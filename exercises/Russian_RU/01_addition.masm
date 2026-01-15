@@ -1,0 +1,8 @@
+; CHALLENGE 1: The Candy Counting
+; You have 5 candies (rax).
+; You get 3 more.
+; How many do you have?
+
+положи rax 5
+; TODO: Add 3 using 'добавь' command
+; TODO: Show the result using 'покажи' command

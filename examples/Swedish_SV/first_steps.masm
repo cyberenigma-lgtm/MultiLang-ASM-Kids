@@ -1,0 +1,8 @@
+; My First Program in Swedish
+; 1. Put value 10 into 'rax'
+; 2. Add 5 to it
+; 3. Show the result
+
+stall rax 10
+addera rax 5
+visa rax

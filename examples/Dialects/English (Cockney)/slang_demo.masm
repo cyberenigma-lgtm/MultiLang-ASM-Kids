@@ -1,0 +1,4 @@
+; Slang Demo in English (Cockney)
+stash rax 100
+nick rax 50
+gawk rax
