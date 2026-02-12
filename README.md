@@ -26,6 +26,7 @@ Coming soon!
 - **Level 3 (13+):** "The Commander" (Jumps & Logic)
 
 ## 🔗 Links
+- [📜 Genealogía del Ecosistema Neuro‑ASM](https://github.com/cyberenigma-lgtm/NeuroUniversalASM/blob/main/docs/genealogia_neuro_asm.md)
 - [Main Repository (Core Engine)](https://github.com/cyberenigma-lgtm/MultiLang-ASM)
 
 ---
