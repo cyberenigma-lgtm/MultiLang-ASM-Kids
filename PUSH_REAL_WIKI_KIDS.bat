@@ -1,5 +1,5 @@
 @echo off
-set GIT_PATH="C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\cmd\git.exe"
+set GIT_PATH="git.exe"
 
 echo ===========================================
 echo   MULTILANG-ASM KIDS - REAL WIKI UPLOAD
@@ -13,13 +13,13 @@ cd wiki
 REM Inicializar repo dentro de la carpeta wiki si no existe
 if not exist .git (
     %GIT_PATH% init
-    %GIT_PATH% config user.name "Neuro-OS Builder"
-    %GIT_PATH% config user.email "neuro.os.builder@internal"
+    %GIT_PATH% config user.name "cyberenigma-lgtm"
+    %GIT_PATH% config user.email "cyberenigma-lgtm@users.noreply.github.com"
     %GIT_PATH% checkout -b master
 )
 
 %GIT_PATH% add .
-%GIT_PATH% commit -m "docs: update wiki pages"
+%GIT_PATH% commit -m "docs: update wiki pages (154 languages, curriculum, teachers guide)"
 
 echo.
 echo ===========================================

@@ -1,17 +1,17 @@
 @echo off
-set GIT_PATH="C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\cmd\git.exe"
+set GIT_PATH="git.exe"
 
 echo ===========================================
 echo   MULTILANG-ASM KIDS - INITIAL DEPLOY
 echo ===========================================
 echo.
 
-%GIT_PATH% config user.name "Neuro-OS Builder"
-%GIT_PATH% config user.email "neuro.os.builder@internal"
+%GIT_PATH% config user.name "cyberenigma-lgtm"
+%GIT_PATH% config user.email "cyberenigma-lgtm@users.noreply.github.com"
 
 %GIT_PATH% checkout -b main
 %GIT_PATH% add .
-%GIT_PATH% commit -m "feat: complete Kids Mode suite (27 languages, docs, examples, exercises)"
+%GIT_PATH% commit -m "feat(v1.0.0): sovereign release - 100% ANSI C99 native kids engine, UPL+ standard, 154 world languages & curriculum"
 
 echo.
 echo ===========================================
