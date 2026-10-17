@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tok Pisin (tpi)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+muvim counter 5
+
+launch_loop:
+singaut_sistem counter
+minusim counter 1
+sekim counter 0
+sapos_no_sem launch_loop
+
+; Blastoff!
+muvim box 999
+singaut_sistem box

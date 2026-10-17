@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Quechua / Runa Simi",
+    "code": "qu",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Quechua / Runa Simi"
+  },
+  "kids_verbs": {
+    "put": "astay",
+    "add": "yapay",
+    "take": "qichuy",
+    "mul": "mirachiy",
+    "div": "rakiniy",
+    "show": "llanu_waqyay",
+    "jump": "paway",
+    "compare": "tupachiy",
+    "if_equal": "kaqlla_hina",
+    "if_different": "mana_kaqlla",
+    "if_greater": "aswan_hatun",
+    "if_smaller": "aswan_uchuy",
+    "repeat": "muyuy",
+    "save": "winay",
+    "load": "qurpuy",
+    "call": "waqyay",
+    "back": "kutimuy",
+    "stop": "sayachiy",
+    "wait": "imapas_mana"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

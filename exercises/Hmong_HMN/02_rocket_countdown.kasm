@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Hmong / Hmoob (hmn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+tsiv counter 5
+
+launch_loop:
+hu_kab_ke counter
+rho counter 1
+pab_phev counter 0
+if_different launch_loop
+
+; Blastoff!
+tsiv box 999
+hu_kab_ke box

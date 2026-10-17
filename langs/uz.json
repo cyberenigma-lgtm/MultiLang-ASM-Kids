@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Uzbek / O'zbek",
+    "code": "uz",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Uzbek / O'zbek"
+  },
+  "kids_verbs": {
+    "put": "kochir",
+    "add": "qosh",
+    "take": "ayir",
+    "mul": "kopaytir",
+    "div": "bol",
+    "show": "tizim_chaqiruvi",
+    "jump": "sakrash",
+    "compare": "solishtir",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "tsikl",
+    "save": "kirit",
+    "load": "chiqar",
+    "call": "chaqir",
+    "back": "qayt",
+    "stop": "toxta",
+    "wait": "hech_narsa"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

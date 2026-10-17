@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Occitan / Lenga d'òc (oc)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'sonada_sistema'!
+
+desplaçar box 7
+; TODO: Add 8 using 'apondre'
+; TODO: Subtract 4 using 'sustraire'
+; TODO: Show the result using 'sonada_sistema'

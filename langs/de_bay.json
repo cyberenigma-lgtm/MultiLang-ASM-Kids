@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Deutsch (Bavarian)",
+    "code": "de_bay",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Deutsch (Bavarian)"
+  },
+  "kids_verbs": {
+    "put": "pack",
+    "add": "dazu",
+    "take": "weg",
+    "mul": "moi",
+    "div": "teils",
+    "show": "schau",
+    "jump": "hopf",
+    "compare": "schaug_o",
+    "if_equal": "wanns_basst",
+    "if_different": "wanns_ned_basst",
+    "if_greater": "wanns_greaßer_is",
+    "if_smaller": "wanns_kloaner_is",
+    "repeat": "nochamoi",
+    "save": "steck_ei",
+    "load": "hols_raus",
+    "call": "gruaf",
+    "back": "zruck",
+    "stop": "aus_is",
+    "wait": "hock_di"
+  },
+  "friendly_registers": {
+    "box": "kistn",
+    "box2": "kistn2",
+    "counter": "zehla",
+    "box3": "kistn3",
+    "box4": "kistn4",
+    "box5": "kistn5"
+  }
+}

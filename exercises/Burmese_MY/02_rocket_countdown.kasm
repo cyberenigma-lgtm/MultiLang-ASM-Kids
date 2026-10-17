@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Burmese / မြန်မာစာ (my)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ရွှေ့ counter 5
+
+launch_loop:
+စနစ်ခေါ်ဆိုမှု counter
+နှုတ် counter 1
+နှိုင်းယှဉ် counter 0
+if_different launch_loop
+
+; Blastoff!
+ရွှေ့ box 999
+စနစ်ခေါ်ဆိုမှု box

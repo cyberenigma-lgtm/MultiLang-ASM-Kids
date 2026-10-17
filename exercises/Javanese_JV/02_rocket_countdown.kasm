@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Javanese / Basa Jawa (jv)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pindah counter 5
+
+launch_loop:
+timbal_sistem counter
+suda counter 1
+banding counter 0
+yen_bedo launch_loop
+
+; Blastoff!
+pindah box 999
+timbal_sistem box

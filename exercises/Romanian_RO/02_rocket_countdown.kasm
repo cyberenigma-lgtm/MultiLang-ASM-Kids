@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Romanian / Română (ro)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pune contor 5
+
+launch_loop:
+arata contor
+scade contor 1
+compara contor 0
+daca_diferit launch_loop
+
+; Blastoff!
+pune cutie 999
+arata cutie

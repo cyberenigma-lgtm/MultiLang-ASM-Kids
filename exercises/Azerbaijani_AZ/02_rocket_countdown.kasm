@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Azerbaijani / Azərbaycan (az)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+köçür counter 5
+
+launch_loop:
+sistem_zəngi counter
+çıx counter 1
+müqayisə_et counter 0
+if_different launch_loop
+
+; Blastoff!
+köçür box 999
+sistem_zəngi box

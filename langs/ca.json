@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Catalan / Català",
+    "code": "ca",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Catalan / Català"
+  },
+  "kids_verbs": {
+    "put": "moure",
+    "add": "sumar",
+    "take": "restar",
+    "mul": "multiplicar",
+    "div": "dividir",
+    "show": "crida_sistema",
+    "jump": "saltar",
+    "compare": "comparar",
+    "if_equal": "si_igual",
+    "if_different": "si_no_igual",
+    "if_greater": "si_major",
+    "if_smaller": "si_menor",
+    "repeat": "bucle",
+    "save": "empènyer",
+    "load": "extreure",
+    "call": "cridar",
+    "back": "retornar",
+    "stop": "aturar",
+    "wait": "res"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

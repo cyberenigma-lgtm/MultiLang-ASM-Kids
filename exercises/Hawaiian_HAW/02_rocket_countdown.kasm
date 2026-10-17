@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Hawaiian / ʻŌlelo Hawaiʻi (haw)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+neʻe counter 5
+
+launch_loop:
+kāhea_ʻōnaehana counter
+kāpae counter 1
+hoʻohālike counter 0
+if_different launch_loop
+
+; Blastoff!
+neʻe box 999
+kāhea_ʻōnaehana box

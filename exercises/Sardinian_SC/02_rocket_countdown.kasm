@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Sardinian / Sardu (sc)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+movimentare counter 5
+
+launch_loop:
+ciamadore_sistema counter
+bogare counter 1
+cunfrontare counter 0
+if_different launch_loop
+
+; Blastoff!
+movimentare box 999
+ciamadore_sistema box

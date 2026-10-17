@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kurdish / Kurdî (ku)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+veguhezîne counter 5
+
+launch_loop:
+banga_pergalê counter
+derxe counter 1
+berawird_bike counter 0
+if_different launch_loop
+
+; Blastoff!
+veguhezîne box 999
+banga_pergalê box

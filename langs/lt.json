@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Lithuanian / Lietuvių",
+    "code": "lt",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Lithuanian / Lietuvių"
+  },
+  "kids_verbs": {
+    "put": "perkelti",
+    "add": "prideti",
+    "take": "atimti",
+    "mul": "dauginti",
+    "div": "dalinti",
+    "show": "sisteminis_iskvietimas",
+    "jump": "sokti",
+    "compare": "palyginti",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ciklas",
+    "save": "ideti",
+    "load": "isimti",
+    "call": "kviesti",
+    "back": "grazinti",
+    "stop": "stabdyti",
+    "wait": "nieko"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

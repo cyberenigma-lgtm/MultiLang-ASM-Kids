@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Pashto / پښتو (ps)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+لږدول counter 5
+
+launch_loop:
+سیسټم_غوښتنه counter
+منفي_کول counter 1
+پر پرتله_کول counter 0
+if_different launch_loop
+
+; Blastoff!
+لږدول box 999
+سیسټم_غوښتنه box

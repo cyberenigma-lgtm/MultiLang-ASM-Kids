@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Assamese / অসমীয়া",
+    "code": "as",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Assamese / অসমীয়া"
+  },
+  "kids_verbs": {
+    "put": "স্থানান্তৰ",
+    "add": "যোগ_কৰক",
+    "take": "বিয়োগ_কৰক",
+    "mul": "পূৰণ_কৰক",
+    "div": "হৰণ_কৰক",
+    "show": "ব্যৱস্থাৰ_আহ্বান",
+    "jump": "জঁপিয়াওক",
+    "compare": "তুলনা_কৰক",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "লুপ",
+    "save": "ভৰাওক",
+    "load": "উলিয়াওক",
+    "call": "মাতক",
+    "back": "উভতি_যাওক",
+    "stop": "ৰখক",
+    "wait": "একো_নাই"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

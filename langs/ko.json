@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Korean / 한국어",
+    "code": "ko",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Korean / 한국어"
+  },
+  "kids_verbs": {
+    "put": "neoh",
+    "add": "deohae",
+    "take": "ppaera",
+    "mul": "gophae",
+    "div": "nanwo",
+    "show": "boyeo",
+    "jump": "ttwieo",
+    "compare": "bigyo",
+    "if_equal": "gat_damyeon",
+    "if_different": "dareu_damyeon",
+    "if_greater": "keu_damyeon",
+    "if_smaller": "jakeu_damyeon",
+    "repeat": "banbok",
+    "save": "jeojang",
+    "load": "bullaewa",
+    "call": "bulleo",
+    "back": "doraga",
+    "stop": "meomchwo",
+    "wait": "gidaryeo"
+  },
+  "friendly_registers": {
+    "box": "sangja",
+    "box2": "sangja2",
+    "counter": "gesangi",
+    "box3": "sangja3",
+    "box4": "sangja4",
+    "box5": "sangja5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Greek / Ελληνικά",
+    "code": "el",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Greek / Ελληνικά"
+  },
+  "kids_verbs": {
+    "put": "bale",
+    "add": "prosthese",
+    "take": "afairese",
+    "mul": "pollaplasia",
+    "div": "diairese",
+    "show": "diekse",
+    "jump": "pida",
+    "compare": "sygkrine",
+    "if_equal": "an_iso",
+    "if_different": "an_diaforetiko",
+    "if_greater": "an_megalytero",
+    "if_smaller": "an_mikrotero",
+    "repeat": "epanelabe",
+    "save": "apothikefse",
+    "load": "anakalw",
+    "call": "kalese",
+    "back": "epistrepse",
+    "stop": "stamata",
+    "wait": "perimene"
+  },
+  "friendly_registers": {
+    "box": "kouti",
+    "box2": "kouti2",
+    "counter": "metritis",
+    "box3": "kouti3",
+    "box4": "kouti4",
+    "box5": "kouti5"
+  }
+}

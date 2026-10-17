@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Hindi / हिन्दी (hi)
+; MultiLang-ASM Kids
+; ==========================================
+
+rakho dibba 10       ; Put 10 candies in the box
+jodo dibba 5        ; Get 5 more candies (15)
+ghatao dibba 2        ; Eat 2 candies (13 left!)
+dikhao dibba         ; Show the final candy count!

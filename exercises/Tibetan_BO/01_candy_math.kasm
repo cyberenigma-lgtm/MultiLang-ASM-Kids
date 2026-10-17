@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Tibetan / བོད་སྐད་ (bo)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'མ་ལག_འབོད་པ'!
+
+སྤོ box 7
+; TODO: Add 8 using 'སྣོན'
+; TODO: Subtract 4 using 'འཐེན'
+; TODO: Show the result using 'མ་ལག_འབོད་པ'

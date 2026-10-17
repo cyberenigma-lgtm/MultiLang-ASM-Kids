@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tibetan / བོད་སྐད་ (bo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+སྤོ counter 5
+
+launch_loop:
+མ་ལག_འབོད་པ counter
+འཐེན counter 1
+བསྡུར counter 0
+if_different launch_loop
+
+; Blastoff!
+སྤོ box 999
+མ་ལག_འབོད་པ box

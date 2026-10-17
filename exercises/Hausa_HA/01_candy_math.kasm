@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Hausa (ha)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'kiran_tsarin'!
+
+motsa box 7
+; TODO: Add 8 using 'kara'
+; TODO: Subtract 4 using 'rage'
+; TODO: Show the result using 'kiran_tsarin'

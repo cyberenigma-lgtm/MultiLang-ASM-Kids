@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Latvian / Latviešu (lv)
+; MultiLang-ASM Kids
+; ==========================================
+
+parvietot box 10       ; Put 10 candies in the box
+pieskaitit box 5        ; Get 5 more candies (15)
+atnemt box 2        ; Eat 2 candies (13 left!)
+sistemas_izsaukums box         ; Show the final candy count!

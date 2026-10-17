@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Romanian / Română",
+    "code": "ro",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Romanian / Română"
+  },
+  "kids_verbs": {
+    "put": "pune",
+    "add": "adauga",
+    "take": "scade",
+    "mul": "inmulteste",
+    "div": "imparte",
+    "show": "arata",
+    "jump": "sari",
+    "compare": "compara",
+    "if_equal": "daca_egal",
+    "if_different": "daca_diferit",
+    "if_greater": "daca_mai_mare",
+    "if_smaller": "daca_mai_mic",
+    "repeat": "repeta",
+    "save": "salveaza",
+    "load": "incarca",
+    "call": "cheama",
+    "back": "revino",
+    "stop": "opreste",
+    "wait": "asteapta"
+  },
+  "friendly_registers": {
+    "box": "cutie",
+    "box2": "cutie2",
+    "counter": "contor",
+    "box3": "cutie3",
+    "box4": "cutie4",
+    "box5": "cutie5"
+  }
+}

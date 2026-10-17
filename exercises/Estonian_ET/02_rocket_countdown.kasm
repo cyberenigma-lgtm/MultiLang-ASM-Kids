@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Estonian / Eesti (et)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+liiguta counter 5
+
+launch_loop:
+susteemikutse counter
+lahuta counter 1
+vordle counter 0
+if_different launch_loop
+
+; Blastoff!
+liiguta box 999
+susteemikutse box

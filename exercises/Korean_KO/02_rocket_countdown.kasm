@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Korean / 한국어 (ko)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+neoh gesangi 5
+
+launch_loop:
+boyeo gesangi
+ppaera gesangi 1
+bigyo gesangi 0
+dareu_damyeon launch_loop
+
+; Blastoff!
+neoh sangja 999
+boyeo sangja

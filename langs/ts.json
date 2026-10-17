@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Tsonga / Xitsonga",
+    "code": "ts",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Tsonga / Xitsonga"
+  },
+  "kids_verbs": {
+    "put": "fambisa",
+    "add": "engetela",
+    "take": "susa",
+    "mul": "andzisa",
+    "div": "ava",
+    "show": "vitano_ra_sisiteme",
+    "jump": "tlula",
+    "compare": "pimanisa",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "rhumbu",
+    "save": "nghenisa",
+    "load": "humesa",
+    "call": "vitana",
+    "back": "vuyela",
+    "stop": "yima",
+    "wait": "a_ku_na_nchumu"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

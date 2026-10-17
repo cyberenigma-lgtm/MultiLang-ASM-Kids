@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Icelandic / Íslenska",
+    "code": "is",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Icelandic / Íslenska"
+  },
+  "kids_verbs": {
+    "put": "faera",
+    "add": "baeta",
+    "take": "draga",
+    "mul": "marga",
+    "div": "deila",
+    "show": "kerfiskall",
+    "jump": "stoppa",
+    "compare": "bera_saman",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "lykkja",
+    "save": "yta",
+    "load": "draga_ut",
+    "call": "kalla",
+    "back": "skila",
+    "stop": "haetta",
+    "wait": "ekkert"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

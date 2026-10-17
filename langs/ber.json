@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Berber / Tamazight",
+    "code": "ber",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Berber / Tamazight"
+  },
+  "kids_verbs": {
+    "put": "sihel",
+    "add": "rnu",
+    "take": "ekkes",
+    "mul": "sget",
+    "div": "bḍu",
+    "show": "siwel_unagraw",
+    "jump": "neḍ",
+    "compare": "zer",
+    "if_equal": "ma_igda",
+    "if_different": "ma_ur_igda",
+    "if_greater": "ma_imeqqer",
+    "if_smaller": "ma_imeẓẓi",
+    "repeat": "azmam",
+    "save": "seres",
+    "load": "sekker",
+    "call": "siwel",
+    "back": "uɣal",
+    "stop": "ḥbes",
+    "wait": "walat"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

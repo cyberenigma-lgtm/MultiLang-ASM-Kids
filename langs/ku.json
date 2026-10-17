@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Kurdish / Kurdî",
+    "code": "ku",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Kurdish / Kurdî"
+  },
+  "kids_verbs": {
+    "put": "veguhezîne",
+    "add": "zêde_bike",
+    "take": "derxe",
+    "mul": "caran",
+    "div": "parve_bike",
+    "show": "banga_pergalê",
+    "jump": "bipirse",
+    "compare": "berawird_bike",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "zivirandin",
+    "save": "deyne",
+    "load": "rake",
+    "call": "bang_bike",
+    "back": "vegere",
+    "stop": "bisekine",
+    "wait": "tiştek_tune"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

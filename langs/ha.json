@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Hausa",
+    "code": "ha",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Hausa"
+  },
+  "kids_verbs": {
+    "put": "motsa",
+    "add": "kara",
+    "take": "rage",
+    "mul": "rubanya",
+    "div": "raba",
+    "show": "kiran_tsarin",
+    "jump": "tsallaka",
+    "compare": "gwada",
+    "if_equal": "idan_daidai",
+    "if_different": "idan_ba_daidai_ba",
+    "if_greater": "idan_fi",
+    "if_smaller": "idan_kasa",
+    "repeat": "madauki",
+    "save": "tura",
+    "load": "cire",
+    "call": "kira",
+    "back": "koma",
+    "stop": "dakatar",
+    "wait": "babu"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

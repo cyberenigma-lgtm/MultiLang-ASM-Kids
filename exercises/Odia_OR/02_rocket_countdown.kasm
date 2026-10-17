@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Odia / ଓଡ଼ିଆ (or)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ଘୁଞ୍ଚାଅ counter 5
+
+launch_loop:
+ସିଷ୍ଟମ_କଲ୍ counter
+ଫେଡ଼ counter 1
+ତୁଳନା counter 0
+if_different launch_loop
+
+; Blastoff!
+ଘୁଞ୍ଚାଅ box 999
+ସିଷ୍ଟମ_କଲ୍ box

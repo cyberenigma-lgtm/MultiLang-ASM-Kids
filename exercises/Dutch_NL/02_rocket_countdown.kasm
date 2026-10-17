@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Dutch / Nederlands (nl)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+zet teller 5
+
+launch_loop:
+toon teller
+trek_af teller 1
+vergelijk teller 0
+als_anders launch_loop
+
+; Blastoff!
+zet doos 999
+toon doos

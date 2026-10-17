@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Bosnian / Bosanski (bs)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pomjeri counter 5
+
+launch_loop:
+sistemski_poziv counter
+oduzmi counter 1
+uporedi counter 0
+if_different launch_loop
+
+; Blastoff!
+pomjeri box 999
+sistemski_poziv box

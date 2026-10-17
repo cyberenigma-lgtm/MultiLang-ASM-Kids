@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Ganda / Luganda",
+    "code": "lg",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Ganda / Luganda"
+  },
+  "kids_verbs": {
+    "put": "sindiika",
+    "add": "yongerako",
+    "take": "toolako",
+    "mul": "kubisaamu",
+    "div": "gabanako",
+    "show": "omulanga_gw_enkola",
+    "jump": "buuka",
+    "compare": "geraageranya",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ennetoloola",
+    "save": "yingiza",
+    "load": "gyamu",
+    "call": "yita",
+    "back": "komawo",
+    "stop": "yimirira",
+    "wait": "tewali"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

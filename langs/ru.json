@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Russian / Русский",
+    "code": "ru",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Russian / Русский"
+  },
+  "kids_verbs": {
+    "put": "положи",
+    "add": "добавь",
+    "take": "отними",
+    "mul": "умножь",
+    "div": "раздели",
+    "show": "покажи",
+    "jump": "прыгай",
+    "compare": "сравни",
+    "if_equal": "если_равно",
+    "if_different": "если_не_равно",
+    "if_greater": "если_больше",
+    "if_smaller": "если_меньше",
+    "repeat": "повтори",
+    "save": "сохрани",
+    "load": "достань",
+    "call": "вызови",
+    "back": "вернись",
+    "stop": "стой",
+    "wait": "жди"
+  },
+  "friendly_registers": {
+    "box": "коробка",
+    "box2": "коробка2",
+    "counter": "счетчик",
+    "box3": "коробка3",
+    "box4": "коробка4",
+    "box5": "коробка5"
+  }
+}

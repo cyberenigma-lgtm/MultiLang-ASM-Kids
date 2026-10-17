@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Finnish / Suomi (fi)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+siirrä counter 5
+
+launch_loop:
+järjestelmäkutsu counter
+vähennä counter 1
+vertaa counter 0
+jos_eri launch_loop
+
+; Blastoff!
+siirrä box 999
+järjestelmäkutsu box

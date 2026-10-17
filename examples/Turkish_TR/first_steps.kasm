@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Turkish / Türkçe (tr)
+; MultiLang-ASM Kids
+; ==========================================
+
+koy kutu 10       ; Put 10 candies in the box
+ekle kutu 5        ; Get 5 more candies (15)
+cikar kutu 2        ; Eat 2 candies (13 left!)
+goster kutu         ; Show the final candy count!

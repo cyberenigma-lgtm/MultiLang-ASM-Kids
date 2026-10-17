@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Spanish / Español (es)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pon contador 5
+
+launch_loop:
+enseña contador
+resta contador 1
+compara contador 0
+si_diferente launch_loop
+
+; Blastoff!
+pon caja 999
+enseña caja

@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Latin / Latina (la)
+; MultiLang-ASM Kids
+; ==========================================
+
+movere box 10       ; Put 10 candies in the box
+addere box 5        ; Get 5 more candies (15)
+subtrahere box 2        ; Eat 2 candies (13 left!)
+vocatio_systematis box         ; Show the final candy count!

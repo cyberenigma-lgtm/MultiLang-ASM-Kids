@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Yoruba (yo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+gbe counter 5
+
+launch_loop:
+pe_eto counter
+yọkuro counter 1
+fiwe counter 0
+bi_o_ba_yatọ launch_loop
+
+; Blastoff!
+gbe box 999
+pe_eto box

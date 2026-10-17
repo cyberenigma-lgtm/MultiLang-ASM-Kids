@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Georgian / ქართული",
+    "code": "ka",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Georgian / ქართული"
+  },
+  "kids_verbs": {
+    "put": "გადატანა",
+    "add": "მიმატება",
+    "take": "გამოკლება",
+    "mul": "გამრავლება",
+    "div": "გაყოფა",
+    "show": "სისტემური_ზარი",
+    "jump": "გადახტომა",
+    "compare": "შედარება",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ციკლი",
+    "save": "ჩადება",
+    "load": "ამოღება",
+    "call": "გამოძახება",
+    "back": "დაბრუნება",
+    "stop": "გაჩერება",
+    "wait": "არაფერი"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

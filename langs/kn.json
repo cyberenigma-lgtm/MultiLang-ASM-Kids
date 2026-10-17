@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Kannada / ಕನ್ನಡ",
+    "code": "kn",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Kannada / ಕನ್ನಡ"
+  },
+  "kids_verbs": {
+    "put": "ಸ್ಥಳಾಂತರಿಸಿ",
+    "add": "ಕೂಡಿಸು",
+    "take": "ಕಳೆಯಿರಿ",
+    "mul": "ಗುಣಿಸು",
+    "div": "ಭಾಗಿಸು",
+    "show": "ವ್ಯವಸ್ಥೆ_ಕರೆ",
+    "jump": "ಜಿಗಿ",
+    "compare": "ಹೋಲಿಸಿ",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ಸುತ್ತು",
+    "save": "ಹಾಕಿ",
+    "load": "ತೆಗೆಯಿರಿ",
+    "call": "ಕರೆ",
+    "back": "ಹಿಂತಿರುಗಿ",
+    "stop": "ನಿಲ್ಲಿಸು",
+    "wait": "ಏನೂ_ಇಲ್ಲ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

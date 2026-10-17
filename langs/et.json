@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Estonian / Eesti",
+    "code": "et",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Estonian / Eesti"
+  },
+  "kids_verbs": {
+    "put": "liiguta",
+    "add": "liida",
+    "take": "lahuta",
+    "mul": "korruta",
+    "div": "jaga",
+    "show": "susteemikutse",
+    "jump": "huppa",
+    "compare": "vordle",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "tsukkel",
+    "save": "tuka",
+    "load": "tiri",
+    "call": "kutsu",
+    "back": "tagasta",
+    "stop": "peata",
+    "wait": "mittemidagi"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Chichewa / Nyanja (ny)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+suntha counter 5
+
+launch_loop:
+kuitana_makina counter
+chotsani counter 1
+yerekezerani counter 0
+if_different launch_loop
+
+; Blastoff!
+suntha box 999
+kuitana_makina box

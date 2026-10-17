@@ -1,0 +1,14 @@
+# Binaries & Object Files
+*.exe
+*.o
+*.obj
+*.out
+bin/
+test_output.asm
+test_es.asm
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Swedish / Svenska (sv)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'lada'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'visa'!
+
+stall lada 7
+; TODO: Add 8 using 'addera'
+; TODO: Subtract 4 using 'dra_av'
+; TODO: Show the result using 'visa'

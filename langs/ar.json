@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Arabic / العربية",
+    "code": "ar",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Arabic / العربية"
+  },
+  "kids_verbs": {
+    "put": "da",
+    "add": "ijma",
+    "take": "itrah",
+    "mul": "idrib",
+    "div": "iqsim",
+    "show": "anzur",
+    "jump": "iqfiz",
+    "compare": "qarin",
+    "if_equal": "iza_tasawa",
+    "if_different": "iza_ikhtalaf",
+    "if_greater": "iza_akbar",
+    "if_smaller": "iza_asghar",
+    "repeat": "karrir",
+    "save": "ihfaz",
+    "load": "istirja",
+    "call": "nadi",
+    "back": "irji",
+    "stop": "tawaqqaf",
+    "wait": "intazir"
+  },
+  "friendly_registers": {
+    "box": "sunduq",
+    "box2": "sunduq2",
+    "counter": "midad",
+    "box3": "sunduq3",
+    "box4": "sunduq4",
+    "box5": "sunduq5"
+  }
+}

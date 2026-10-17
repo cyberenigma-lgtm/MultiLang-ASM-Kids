@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Corsican / Corsu (co)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+spustà counter 5
+
+launch_loop:
+chjama_sistema counter
+suttrae counter 1
+paragunà counter 0
+if_different launch_loop
+
+; Blastoff!
+spustà box 999
+chjama_sistema box

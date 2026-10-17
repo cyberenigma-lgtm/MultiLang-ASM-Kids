@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Setswana (tn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+tsamaisa counter 5
+
+launch_loop:
+pitso_ya_tsamaiso counter
+fokotsa counter 1
+tshwantshanya counter 0
+if_different launch_loop
+
+; Blastoff!
+tsamaisa box 999
+pitso_ya_tsamaiso box

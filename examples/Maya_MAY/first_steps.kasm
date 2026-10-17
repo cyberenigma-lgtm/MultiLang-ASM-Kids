@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Maya / Maaya T'aan (may)
+; MultiLang-ASM Kids
+; ==========================================
+
+túuxt box 10       ; Put 10 candies in the box
+ts'áaj box 5        ; Get 5 more candies (15)
+túul box 2        ; Eat 2 candies (13 left!)
+t'an_sistema box         ; Show the final candy count!

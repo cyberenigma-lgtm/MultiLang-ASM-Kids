@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Español (Madrid)",
+    "code": "es_mad",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Español (Madrid)"
+  },
+  "kids_verbs": {
+    "put": "apanca",
+    "add": "suma",
+    "take": "pilla",
+    "mul": "dobla",
+    "div": "reparte",
+    "show": "lipa",
+    "jump": "pira",
+    "compare": "tasa",
+    "if_equal": "si_clavao",
+    "if_different": "si_chungo",
+    "if_greater": "si_mas_tocho",
+    "if_smaller": "si_mas_canijo",
+    "repeat": "otra_ronda",
+    "save": "guarda",
+    "load": "saca",
+    "call": "toque",
+    "back": "pa_tras",
+    "stop": "chapa",
+    "wait": "relaja"
+  },
+  "friendly_registers": {
+    "box": "caja",
+    "box2": "caja2",
+    "counter": "marcador",
+    "box3": "caja3",
+    "box4": "caja4",
+    "box5": "caja5"
+  }
+}

@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Tsonga / Xitsonga (ts)
+; MultiLang-ASM Kids
+; ==========================================
+
+fambisa box 10       ; Put 10 candies in the box
+engetela box 5        ; Get 5 more candies (15)
+susa box 2        ; Eat 2 candies (13 left!)
+vitano_ra_sisiteme box         ; Show the final candy count!

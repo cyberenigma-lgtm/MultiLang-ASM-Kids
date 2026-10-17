@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Finnish / Suomi",
+    "code": "fi",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Finnish / Suomi"
+  },
+  "kids_verbs": {
+    "put": "siirrä",
+    "add": "lisää",
+    "take": "vähennä",
+    "mul": "kerro",
+    "div": "jaa",
+    "show": "järjestelmäkutsu",
+    "jump": "hyppää",
+    "compare": "vertaa",
+    "if_equal": "jos_sama",
+    "if_different": "jos_eri",
+    "if_greater": "jos_suurempi",
+    "if_smaller": "jos_pienempi",
+    "repeat": "silmukka",
+    "save": "työnnä",
+    "load": "vedä",
+    "call": "kutsu",
+    "back": "palaa",
+    "stop": "pysäytä",
+    "wait": "tyhjä"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

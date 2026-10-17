@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kirundi (rn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+yimura counter 5
+
+launch_loop:
+ihamagara_ry_uburyo counter
+kuraho counter 1
+gereranya counter 0
+if_different launch_loop
+
+; Blastoff!
+yimura box 999
+ihamagara_ry_uburyo box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Indonesian / Bahasa Indonesia (id)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+taruh penghitung 5
+
+launch_loop:
+tampil penghitung
+kurang penghitung 1
+bandingkan penghitung 0
+jika_beda launch_loop
+
+; Blastoff!
+taruh kotak 999
+tampil kotak

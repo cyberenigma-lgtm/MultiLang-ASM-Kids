@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Esperanto (eo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+movi counter 5
+
+launch_loop:
+sistemvoko counter
+subtrahi counter 1
+kompari counter 0
+if_different launch_loop
+
+; Blastoff!
+movi box 999
+sistemvoko box

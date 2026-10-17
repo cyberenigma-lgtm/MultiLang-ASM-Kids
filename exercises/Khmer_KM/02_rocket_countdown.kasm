@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Khmer / ភាសាខ្មែរ (km)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+រំកិល counter 5
+
+launch_loop:
+ការហៅប្រព័ន្ធ counter
+ដក counter 1
+ប្រៀបធៀប counter 0
+if_different launch_loop
+
+; Blastoff!
+រំកិល box 999
+ការហៅប្រព័ន្ធ box

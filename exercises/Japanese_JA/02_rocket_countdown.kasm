@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Japanese / 日本語 (ja)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+irete kanta 5
+
+launch_loop:
+misete kanta
+hiite kanta 1
+kurabete kanta 0
+chigau_nara launch_loop
+
+; Blastoff!
+irete hako 999
+misete hako

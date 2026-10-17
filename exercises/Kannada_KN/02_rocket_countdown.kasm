@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kannada / ಕನ್ನಡ (kn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ಸ್ಥಳಾಂತರಿಸಿ counter 5
+
+launch_loop:
+ವ್ಯವಸ್ಥೆ_ಕರೆ counter
+ಕಳೆಯಿರಿ counter 1
+ಹೋಲಿಸಿ counter 0
+if_different launch_loop
+
+; Blastoff!
+ಸ್ಥಳಾಂತರಿಸಿ box 999
+ವ್ಯವಸ್ಥೆ_ಕರೆ box

@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Russian / Русский (ru)
+; MultiLang-ASM Kids
+; ==========================================
+
+положи коробка 10       ; Put 10 candies in the box
+добавь коробка 5        ; Get 5 more candies (15)
+отними коробка 2        ; Eat 2 candies (13 left!)
+покажи коробка         ; Show the final candy count!

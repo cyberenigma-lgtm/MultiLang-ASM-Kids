@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tigrinya / ትግርኛ (ti)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ኣንቀሳቕስ counter 5
+
+launch_loop:
+ጻውዒት_ስርዓት counter
+ኣጉድል counter 1
+ኣረኣኢ counter 0
+if_different launch_loop
+
+; Blastoff!
+ኣንቀሳቕስ box 999
+ጻውዒት_ስርዓት box

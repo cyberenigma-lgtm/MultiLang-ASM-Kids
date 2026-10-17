@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Maya / Maaya T'aan",
+    "code": "may",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Maya / Maaya T'aan"
+  },
+  "kids_verbs": {
+    "put": "túuxt",
+    "add": "ts'áaj",
+    "take": "túul",
+    "mul": "ya'abkún",
+    "div": "t'ox",
+    "show": "t'an_sistema",
+    "jump": "si'it",
+    "compare": "ket",
+    "if_equal": "je'el_bey",
+    "if_different": "ma'_bey",
+    "if_greater": "nojoch",
+    "if_smaller": "chichan",
+    "repeat": "nalkut",
+    "save": "ts'áaj_ich",
+    "load": "jok's",
+    "call": "t'an",
+    "back": "suut",
+    "stop": "p'ul",
+    "wait": "mixba'al"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

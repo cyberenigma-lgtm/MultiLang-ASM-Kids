@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Waray",
+    "code": "war",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Waray"
+  },
+  "kids_verbs": {
+    "put": "balhina",
+    "add": "dugangi",
+    "take": "kuhai",
+    "mul": "damoa",
+    "div": "bahina",
+    "show": "tawag_han_sistema",
+    "jump": "lukso",
+    "compare": "itanding",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "libot",
+    "save": "iduon",
+    "load": "ibutong",
+    "call": "tawaga",
+    "back": "balik",
+    "stop": "pahuway",
+    "wait": "waray"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Zulu / isiZulu",
+    "code": "zu",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Zulu / isiZulu"
+  },
+  "kids_verbs": {
+    "put": "hambisa",
+    "add": "hlanganisa",
+    "take": "susa",
+    "mul": "phindaphinda",
+    "div": "hlukanisa",
+    "show": "ukubizwa_kwesistimu",
+    "jump": "eqa",
+    "compare": "qhathanisa",
+    "if_equal": "uma_kulingana",
+    "if_different": "uma_kungalingani",
+    "if_greater": "uma_kukhulu",
+    "if_smaller": "uma_kuncane",
+    "repeat": "iluphu",
+    "save": "faka",
+    "load": "khipha",
+    "call": "biza",
+    "back": "buya",
+    "stop": "misa",
+    "wait": "lutho"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

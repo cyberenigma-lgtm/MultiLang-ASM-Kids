@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Fula / Fulfulde (ff)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+yaggal counter 5
+
+launch_loop:
+noddaango_laawol counter
+ustu counter 1
+yerondir counter 0
+if_different launch_loop
+
+; Blastoff!
+yaggal box 999
+noddaango_laawol box

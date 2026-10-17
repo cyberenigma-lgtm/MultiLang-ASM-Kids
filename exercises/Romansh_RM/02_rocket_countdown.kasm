@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Romansh / Rumantsch (rm)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mover counter 5
+
+launch_loop:
+clamada_sistem counter
+sulevar counter 1
+cumparegliar counter 0
+if_different launch_loop
+
+; Blastoff!
+mover box 999
+clamada_sistem box

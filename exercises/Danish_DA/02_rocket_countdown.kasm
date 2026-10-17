@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Danish / Dansk (da)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+flyt counter 5
+
+launch_loop:
+systemkald counter
+traek_fra counter 1
+sammenlign counter 0
+if_different launch_loop
+
+; Blastoff!
+flyt box 999
+systemkald box

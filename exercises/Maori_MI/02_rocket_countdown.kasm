@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Maori / Te Reo Māori (mi)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+neke counter 5
+
+launch_loop:
+karanga_pūnaha counter
+tango counter 1
+whakataurite counter 0
+mehemea_kore_rite launch_loop
+
+; Blastoff!
+neke box 999
+karanga_pūnaha box

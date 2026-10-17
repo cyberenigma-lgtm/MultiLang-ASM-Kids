@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Deutsch (Bavarian) (de_bay)
+; MultiLang-ASM Kids
+; ==========================================
+
+pack kistn 10       ; Put 10 candies in the box
+dazu kistn 5        ; Get 5 more candies (15)
+weg kistn 2        ; Eat 2 candies (13 left!)
+schau kistn         ; Show the final candy count!

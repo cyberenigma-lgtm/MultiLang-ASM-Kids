@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Belgian French / Français (Belgique)",
+    "code": "fr_be",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Belgian French / Français (Belgique)"
+  },
+  "kids_verbs": {
+    "put": "copier",
+    "add": "ajouter",
+    "take": "soustraire",
+    "mul": "multiplier",
+    "div": "diviser",
+    "show": "appel_systeme",
+    "jump": "sauter",
+    "compare": "comparer",
+    "if_equal": "si_egal",
+    "if_different": "si_pas_egal",
+    "if_greater": "si_plus_grand",
+    "if_smaller": "si_plus_petit",
+    "repeat": "tourner",
+    "save": "pousser",
+    "load": "tirer",
+    "call": "appeler",
+    "back": "revenir",
+    "stop": "stop",
+    "wait": "rien"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

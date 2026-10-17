@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Latvian / Latviešu (lv)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+parvietot counter 5
+
+launch_loop:
+sistemas_izsaukums counter
+atnemt counter 1
+salidzinat counter 0
+if_different launch_loop
+
+; Blastoff!
+parvietot box 999
+sistemas_izsaukums box

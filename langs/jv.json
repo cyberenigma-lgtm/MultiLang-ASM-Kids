@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Javanese / Basa Jawa",
+    "code": "jv",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Javanese / Basa Jawa"
+  },
+  "kids_verbs": {
+    "put": "pindah",
+    "add": "tambah",
+    "take": "suda",
+    "mul": "ping",
+    "div": "para",
+    "show": "timbal_sistem",
+    "jump": "mlumpat",
+    "compare": "banding",
+    "if_equal": "yen_podo",
+    "if_different": "yen_bedo",
+    "if_greater": "yen_luwih",
+    "if_smaller": "yen_kurang",
+    "repeat": "gelung",
+    "save": "lebokne",
+    "load": "wetokne",
+    "call": "timbal",
+    "back": "bali",
+    "stop": "mandeg",
+    "wait": "ora_ono"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

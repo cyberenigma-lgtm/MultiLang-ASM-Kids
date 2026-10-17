@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tetum / Lia-Tetun (tet)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+muda counter 5
+
+launch_loop:
+bolu_sistema counter
+hasai counter 1
+kompara counter 0
+if_different launch_loop
+
+; Blastoff!
+muda box 999
+bolu_sistema box

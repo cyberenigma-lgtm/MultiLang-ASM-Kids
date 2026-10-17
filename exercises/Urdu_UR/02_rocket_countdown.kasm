@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Urdu / اردو (ur)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+منتقل counter 5
+
+launch_loop:
+سسٹم_کال counter
+تفریق counter 1
+موازنہ counter 0
+if_different launch_loop
+
+; Blastoff!
+منتقل box 999
+سسٹم_کال box

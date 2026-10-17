@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Marathi / मराठी (mr)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+हलवा counter 5
+
+launch_loop:
+सिस्टम_कॉल counter
+वजा counter 1
+तुलना counter 0
+if_different launch_loop
+
+; Blastoff!
+हलवा box 999
+सिस्टम_कॉल box

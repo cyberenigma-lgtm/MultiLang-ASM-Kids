@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Chichewa / Nyanja",
+    "code": "ny",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Chichewa / Nyanja"
+  },
+  "kids_verbs": {
+    "put": "suntha",
+    "add": "onjezani",
+    "take": "chotsani",
+    "mul": "chulukitsani",
+    "div": "gawani",
+    "show": "kuitana_makina",
+    "jump": "dumpha",
+    "compare": "yerekezerani",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "kuzungulira",
+    "save": "kankhirani",
+    "load": "tulutsani",
+    "call": "itanani",
+    "back": "bwererani",
+    "stop": "imani",
+    "wait": "palibe"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

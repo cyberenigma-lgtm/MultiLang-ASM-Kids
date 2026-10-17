@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Armenian / Հայերեն",
+    "code": "hy",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Armenian / Հայերեն"
+  },
+  "kids_verbs": {
+    "put": "տեղափոխել",
+    "add": "գումարել",
+    "take": "հանել",
+    "mul": "բազմապատկել",
+    "div": "բաժանել",
+    "show": "համակարգային_կանչ",
+    "jump": "ցատկել",
+    "compare": "համեմատել",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ցիկլ",
+    "save": "մտցնել",
+    "load": "հանել_ստեկից",
+    "call": "կանչել",
+    "back": "վերադառնալ",
+    "stop": "կանգնել",
+    "wait": "ոչինչ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

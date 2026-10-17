@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Slovenian / Slovenščina (sl)
+; MultiLang-ASM Kids
+; ==========================================
+
+premakni box 10       ; Put 10 candies in the box
+dodaj box 5        ; Get 5 more candies (15)
+odstej box 2        ; Eat 2 candies (13 left!)
+sistemski_klic box         ; Show the final candy count!

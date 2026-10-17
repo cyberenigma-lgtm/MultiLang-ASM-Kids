@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Malay / Bahasa Melayu (ms)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+letak pembilang 5
+
+launch_loop:
+tunjuk pembilang
+tolak pembilang 1
+banding pembilang 0
+jika_beza launch_loop
+
+; Blastoff!
+letak kotak 999
+tunjuk kotak

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Basque / Euskara (eu)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mugitu counter 5
+
+launch_loop:
+sistema_deia counter
+kendu counter 1
+konparatu counter 0
+ez_berdina_bada launch_loop
+
+; Blastoff!
+mugitu box 999
+sistema_deia box

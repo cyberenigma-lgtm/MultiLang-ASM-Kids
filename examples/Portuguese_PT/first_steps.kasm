@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Portuguese / Português (pt)
+; MultiLang-ASM Kids
+; ==========================================
+
+coloca caixa 10       ; Put 10 candies in the box
+soma caixa 5        ; Get 5 more candies (15)
+tira caixa 2        ; Eat 2 candies (13 left!)
+mostra caixa         ; Show the final candy count!

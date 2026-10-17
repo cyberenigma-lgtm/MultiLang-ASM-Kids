@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Ilocano / Ilokano (ilo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+yakar counter 5
+
+launch_loop:
+awag_ti_sistema counter
+ikkat counter 1
+idilig counter 0
+if_different launch_loop
+
+; Blastoff!
+yakar box 999
+awag_ti_sistema box

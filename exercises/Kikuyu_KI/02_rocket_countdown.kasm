@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kikuyu / Gĩkũyũ (ki)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+thaama counter 5
+
+launch_loop:
+gwĩta_kĩbũrũri counter
+eheria counter 1
+ringithania counter 0
+if_different launch_loop
+
+; Blastoff!
+thaama box 999
+gwĩta_kĩbũrũri box

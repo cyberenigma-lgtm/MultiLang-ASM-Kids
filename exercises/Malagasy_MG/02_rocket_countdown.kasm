@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Malagasy (mg)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+afindrao counter 5
+
+launch_loop:
+fampiantsoana_rafitra counter
+esory counter 1
+ampitahao counter 0
+if_different launch_loop
+
+; Blastoff!
+afindrao box 999
+fampiantsoana_rafitra box

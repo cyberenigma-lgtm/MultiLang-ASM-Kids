@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Yoruba",
+    "code": "yo",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Yoruba"
+  },
+  "kids_verbs": {
+    "put": "gbe",
+    "add": "fikun",
+    "take": "yọkuro",
+    "mul": "pọsi",
+    "div": "pin",
+    "show": "pe_eto",
+    "jump": "mẹfọ",
+    "compare": "fiwe",
+    "if_equal": "bi_o_ba_dogba",
+    "if_different": "bi_o_ba_yatọ",
+    "if_greater": "bi_o_ba_tobi",
+    "if_smaller": "bi_o_ba_kere",
+    "repeat": "yipo",
+    "save": "tì",
+    "load": "yọ",
+    "call": "pè",
+    "back": "padà",
+    "stop": "duro",
+    "wait": "asán"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Breton / Brezhoneg",
+    "code": "br",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Breton / Brezhoneg"
+  },
+  "kids_verbs": {
+    "put": "fiñval",
+    "add": "ouzhpennañ",
+    "take": "tennañ",
+    "mul": "lieskemmañ",
+    "div": "rannañ",
+    "show": "galv_reizhiad",
+    "jump": "lammat",
+    "compare": "keñveriañ",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "rodell",
+    "save": "bountañ",
+    "load": "tennañ_maez",
+    "call": "gervel",
+    "back": "distreiñ",
+    "stop": "herzel",
+    "wait": "netra"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

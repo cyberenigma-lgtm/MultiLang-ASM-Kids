@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Tetum / Lia-Tetun (tet)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'bolu_sistema'!
+
+muda box 7
+; TODO: Add 8 using 'aumenta'
+; TODO: Subtract 4 using 'hasai'
+; TODO: Show the result using 'bolu_sistema'

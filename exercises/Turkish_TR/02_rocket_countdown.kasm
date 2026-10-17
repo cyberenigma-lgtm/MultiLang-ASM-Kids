@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Turkish / Türkçe (tr)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+koy sayac 5
+
+launch_loop:
+goster sayac
+cikar sayac 1
+karsilas sayac 0
+farkliysa launch_loop
+
+; Blastoff!
+koy kutu 999
+goster kutu

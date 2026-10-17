@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Hmong / Hmoob",
+    "code": "hmn",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Hmong / Hmoob"
+  },
+  "kids_verbs": {
+    "put": "tsiv",
+    "add": "ntxiv",
+    "take": "rho",
+    "mul": "muab_ntau",
+    "div": "faib",
+    "show": "hu_kab_ke",
+    "jump": "dhia",
+    "compare": "pab_phev",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "voj_kuj",
+    "save": "thawb",
+    "load": "rub_tawm",
+    "call": "hu",
+    "back": "rov_qab",
+    "stop": "nres",
+    "wait": "tsis_muaj_dabtsi"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Scottish English / Scots",
+    "code": "en_sc",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Scottish English / Scots"
+  },
+  "kids_verbs": {
+    "put": "pit",
+    "add": "tot",
+    "take": "dock",
+    "mul": "multiply",
+    "div": "divide",
+    "show": "cry_system",
+    "jump": "loup",
+    "compare": "neer",
+    "if_equal": "gin_equal",
+    "if_different": "gin_no_equal",
+    "if_greater": "gin_mair",
+    "if_smaller": "gin_wee",
+    "repeat": "birl",
+    "save": "shove",
+    "load": "pull",
+    "call": "ca",
+    "back": "back",
+    "stop": "wheesht",
+    "wait": "nowt"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

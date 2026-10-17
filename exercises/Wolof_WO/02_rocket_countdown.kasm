@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Wolof (wo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+yóbbu counter 5
+
+launch_loop:
+woote_noste counter
+wàññi counter 1
+mengale counter 0
+if_different launch_loop
+
+; Blastoff!
+yóbbu box 999
+woote_noste box

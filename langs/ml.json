@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Malayalam / മലയാളം",
+    "code": "ml",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Malayalam / മലയാളം"
+  },
+  "kids_verbs": {
+    "put": "നീക്കുക",
+    "add": "കൂട്ടുക",
+    "take": "കുറയ്ക്കുക",
+    "mul": "ഗുണിക്കുക",
+    "div": "ഹരിക്കുക",
+    "show": "സിസ്റ്റം_കോൾ",
+    "jump": "ചാടുക",
+    "compare": "താരതമ്യം",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ചക്രം",
+    "save": "നിക്ഷേപിക്കുക",
+    "load": "എടുക്കുക",
+    "call": "വിളിക്കുക",
+    "back": "തിരികെ",
+    "stop": "നിർത്തുക",
+    "wait": "ഒന്നുമില്ല"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

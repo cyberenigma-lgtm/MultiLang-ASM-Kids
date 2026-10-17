@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Cebuano / Sinugboanon (ceb)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+balhin counter 5
+
+launch_loop:
+tawag_sa_sistema counter
+kuha counter 1
+tandi counter 0
+if_different launch_loop
+
+; Blastoff!
+balhin box 999
+tawag_sa_sistema box

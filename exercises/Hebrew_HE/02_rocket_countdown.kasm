@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Hebrew / עברית (he)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sim mone 5
+
+launch_loop:
+hare mone
+haser mone 1
+hasve mone 0
+im_shone launch_loop
+
+; Blastoff!
+sim kufsa 999
+hare kufsa

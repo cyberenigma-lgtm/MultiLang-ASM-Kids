@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Sinhala / සිංහල",
+    "code": "si",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Sinhala / සිංහල"
+  },
+  "kids_verbs": {
+    "put": "ගෙනියන්න",
+    "add": "එකතු_කරන්න",
+    "take": "අඩු_කරන්න",
+    "mul": "ගුණ_කරන්න",
+    "div": "බෙදන්න",
+    "show": "පද්ධති_ඇමතුම",
+    "jump": "පනින්න",
+    "compare": "සසඳන්න",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ලූපය",
+    "save": "ඇතුල්_කරන්න",
+    "load": "ඉවත්_කරන්න",
+    "call": "අමතන්න",
+    "back": "නැවත_එන්න",
+    "stop": "නවත්වන්න",
+    "wait": "කිසිවක්_නැත"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

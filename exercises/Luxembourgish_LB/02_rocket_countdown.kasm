@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Luxembourgish / Lëtzebuergesch (lb)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+beweegen counter 5
+
+launch_loop:
+systemruff counter
+ofzéien counter 1
+vergläichen counter 0
+if_different launch_loop
+
+; Blastoff!
+beweegen box 999
+systemruff box

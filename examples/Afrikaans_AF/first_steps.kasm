@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Afrikaans (af)
+; MultiLang-ASM Kids
+; ==========================================
+
+skuif box 10       ; Put 10 candies in the box
+tel_by box 5        ; Get 5 more candies (15)
+trek_af box 2        ; Eat 2 candies (13 left!)
+stelselroep box         ; Show the final candy count!

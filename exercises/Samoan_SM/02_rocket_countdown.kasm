@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Samoan / Gagana Sāmoa (sm)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sui counter 5
+
+launch_loop:
+valaau_faiga counter
+toese counter 1
+faatusatusa counter 0
+if_different launch_loop
+
+; Blastoff!
+sui box 999
+valaau_faiga box

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Shona / ChiShona",
+    "code": "sn",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Shona / ChiShona"
+  },
+  "kids_verbs": {
+    "put": "fambisa",
+    "add": "wedzera",
+    "take": "bvisa",
+    "mul": "wanza",
+    "div": "gova",
+    "show": "kudana_sisitimu",
+    "jump": "svetuka",
+    "compare": "enzanisa",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "denderedzwa",
+    "save": "pinda",
+    "load": "buda",
+    "call": "daidza",
+    "back": "dzoka",
+    "stop": "mira",
+    "wait": "hapana"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Kongo / Kikongo",
+    "code": "kg",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Kongo / Kikongo"
+  },
+  "kids_verbs": {
+    "put": "natisa",
+    "add": "yika",
+    "take": "katula",
+    "mul": "kudisa",
+    "div": "kabula",
+    "show": "mbila_nkandikila",
+    "jump": "tina",
+    "compare": "fwanisa",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "zietolo",
+    "save": "kotesa",
+    "load": "vaikisa",
+    "call": "binga",
+    "back": "vutuka",
+    "stop": "telama",
+    "wait": "kima_ve"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

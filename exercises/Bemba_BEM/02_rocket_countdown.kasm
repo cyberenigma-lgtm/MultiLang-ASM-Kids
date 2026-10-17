@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Bemba / ChiBemba (bem)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+selesha counter 5
+
+launch_loop:
+ita_system counter
+fumyapo counter 1
+linganyeni counter 0
+if_different launch_loop
+
+; Blastoff!
+selesha box 999
+ita_system box

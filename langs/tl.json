@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Tagalog / Filipino",
+    "code": "tl",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Tagalog / Filipino"
+  },
+  "kids_verbs": {
+    "put": "lagay",
+    "add": "dagdag",
+    "take": "bawas",
+    "mul": "paramihin",
+    "div": "hatiin",
+    "show": "pakita",
+    "jump": "talon",
+    "compare": "ihambing",
+    "if_equal": "kung_pantay",
+    "if_different": "kung_iba",
+    "if_greater": "kung_mas_marami",
+    "if_smaller": "kung_mas_kaunti",
+    "repeat": "ulitin",
+    "save": "itago",
+    "load": "kunin",
+    "call": "tawagin",
+    "back": "bumalik",
+    "stop": "hinto",
+    "wait": "maghintay"
+  },
+  "friendly_registers": {
+    "box": "kahon",
+    "box2": "kahon2",
+    "counter": "pambilang",
+    "box3": "kahon3",
+    "box4": "kahon4",
+    "box5": "kahon5"
+  }
+}

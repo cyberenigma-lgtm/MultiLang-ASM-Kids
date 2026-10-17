@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Gujarati / ગુજરાતી",
+    "code": "gu",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Gujarati / ગુજરાતી"
+  },
+  "kids_verbs": {
+    "put": "ખસેડો",
+    "add": "ઉમેરો",
+    "take": "બાદ_કરો",
+    "mul": "ગુણાકાર",
+    "div": "ભાગાકાર",
+    "show": "સિસ્ટમ_કૉલ",
+    "jump": "કૂદો",
+    "compare": "સરખામણી",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "લૂપ",
+    "save": "મૂકો",
+    "load": "કાઢો",
+    "call": "બોલાવો",
+    "back": "પાછા",
+    "stop": "અટકો",
+    "wait": "કંઈ_નહીં"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

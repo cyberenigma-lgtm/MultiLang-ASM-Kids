@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Dhivehi / ދިވެހި (dv)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ބަދަލުކުރޭ counter 5
+
+launch_loop:
+ސިސްޓަމް_ކޯލް counter
+ކަނޑާ counter 1
+އަޅާކިޔާ counter 0
+if_different launch_loop
+
+; Blastoff!
+ބަދަލުކުރޭ box 999
+ސިސްޓަމް_ކޯލް box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Akan (ak)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+tu counter 5
+
+launch_loop:
+frɛ_nhyehyɛe counter
+yi_fi_mu counter 1
+toto counter 0
+sɛ_ɛnyɛ_pɛ launch_loop
+
+; Blastoff!
+tu box 999
+frɛ_nhyehyɛe box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Arabic / العربية (ar)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+da midad 5
+
+launch_loop:
+anzur midad
+itrah midad 1
+qarin midad 0
+iza_ikhtalaf launch_loop
+
+; Blastoff!
+da sunduq 999
+anzur sunduq

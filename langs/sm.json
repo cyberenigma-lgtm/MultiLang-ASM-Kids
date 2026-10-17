@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Samoan / Gagana Sāmoa",
+    "code": "sm",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Samoan / Gagana Sāmoa"
+  },
+  "kids_verbs": {
+    "put": "sui",
+    "add": "faaopoopo",
+    "take": "toese",
+    "mul": "faatele",
+    "div": "vaevae",
+    "show": "valaau_faiga",
+    "jump": "oso",
+    "compare": "faatusatusa",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "matasele",
+    "save": "tulei",
+    "load": "toso",
+    "call": "valaau",
+    "back": "toe_foi",
+    "stop": "taofi",
+    "wait": "leai_se_mea"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

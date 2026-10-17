@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Uzbek / O'zbek (uz)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+kochir counter 5
+
+launch_loop:
+tizim_chaqiruvi counter
+ayir counter 1
+solishtir counter 0
+if_different launch_loop
+
+; Blastoff!
+kochir box 999
+tizim_chaqiruvi box

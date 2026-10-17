@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Spanish / Español",
+    "code": "es",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Spanish / Español"
+  },
+  "kids_verbs": {
+    "put": "pon",
+    "add": "suma",
+    "take": "resta",
+    "mul": "multiplica",
+    "div": "divide",
+    "show": "enseña",
+    "jump": "salta",
+    "compare": "compara",
+    "if_equal": "si_igual",
+    "if_different": "si_diferente",
+    "if_greater": "si_mayor",
+    "if_smaller": "si_menor",
+    "repeat": "repite",
+    "save": "guarda",
+    "load": "recupera",
+    "call": "llama",
+    "back": "vuelve",
+    "stop": "para",
+    "wait": "espera"
+  },
+  "friendly_registers": {
+    "box": "caja",
+    "box2": "caja2",
+    "counter": "contador",
+    "box3": "caja3",
+    "box4": "caja4",
+    "box5": "caja5"
+  }
+}

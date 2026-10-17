@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Turkmen / Türkmençe (tk)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+geçir counter 5
+
+launch_loop:
+ulgam_çagyryşy counter
+aýyr counter 1
+deňeşdir counter 0
+if_different launch_loop
+
+; Blastoff!
+geçir box 999
+ulgam_çagyryşy box

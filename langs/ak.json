@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Akan",
+    "code": "ak",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Akan"
+  },
+  "kids_verbs": {
+    "put": "tu",
+    "add": "ka_ho",
+    "take": "yi_fi_mu",
+    "mul": "dɔɔso",
+    "div": "kyɛ",
+    "show": "frɛ_nhyehyɛe",
+    "jump": "huri",
+    "compare": "toto",
+    "if_equal": "sɛ_ɛyɛ_pɛ",
+    "if_different": "sɛ_ɛnyɛ_pɛ",
+    "if_greater": "sɛ_ɛsõ",
+    "if_smaller": "sɛ_ɛyɛ_ketewa",
+    "repeat": "kɔ_to_ho",
+    "save": "pia_mu",
+    "load": "yi_adi",
+    "call": "frɛ",
+    "back": "ba_man",
+    "stop": "gyina",
+    "wait": "hwee_nni_hɔ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

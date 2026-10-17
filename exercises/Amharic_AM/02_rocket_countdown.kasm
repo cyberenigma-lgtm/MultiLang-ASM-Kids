@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Amharic / አማርኛ (am)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+አንቀሳቅስ counter 5
+
+launch_loop:
+ሲስተም_ጥራ counter
+ቀንስ counter 1
+አወዳድር counter 0
+እኩል_ካልሆነ launch_loop
+
+; Blastoff!
+አንቀሳቅስ box 999
+ሲስተም_ጥራ box

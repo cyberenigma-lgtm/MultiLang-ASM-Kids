@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Swati / SiSwati (ss)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+gudluta counter 5
+
+launch_loop:
+kubita_sisitemu counter
+susa counter 1
+qhathanisa counter 0
+if_different launch_loop
+
+; Blastoff!
+gudluta box 999
+kubita_sisitemu box

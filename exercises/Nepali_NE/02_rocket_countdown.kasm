@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Nepali / नेपाली (ne)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+सार्नुहोस् counter 5
+
+launch_loop:
+प्रणाली_कल counter
+घटाउनुहोस् counter 1
+तुलना_गर्नुहोस् counter 0
+if_different launch_loop
+
+; Blastoff!
+सार्नुहोस् box 999
+प्रणाली_कल box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Cantonese / 粵語 (yue)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+搬 counter 5
+
+launch_loop:
+叫系統 counter
+減 counter 1
+比 counter 0
+如果唔等 launch_loop
+
+; Blastoff!
+搬 box 999
+叫系統 box

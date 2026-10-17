@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Hmong / Hmoob (hmn)
+; MultiLang-ASM Kids
+; ==========================================
+
+tsiv box 10       ; Put 10 candies in the box
+ntxiv box 5        ; Get 5 more candies (15)
+rho box 2        ; Eat 2 candies (13 left!)
+hu_kab_ke box         ; Show the final candy count!

@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Swahili / Kiswahili (sw)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'sanduku'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'onyesha'!
+
+weka sanduku 7
+; TODO: Add 8 using 'ongeza'
+; TODO: Subtract 4 using 'toa'
+; TODO: Show the result using 'onyesha'

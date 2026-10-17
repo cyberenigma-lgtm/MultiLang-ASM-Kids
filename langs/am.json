@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Amharic / አማርኛ",
+    "code": "am",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Amharic / አማርኛ"
+  },
+  "kids_verbs": {
+    "put": "አንቀሳቅስ",
+    "add": "ጨምር",
+    "take": "ቀንስ",
+    "mul": "አባዛ",
+    "div": "አካፍል",
+    "show": "ሲስተም_ጥራ",
+    "jump": "ዝለል",
+    "compare": "አወዳድር",
+    "if_equal": "እኩል_ከሆነ",
+    "if_different": "እኩል_ካልሆነ",
+    "if_greater": "የበለጠ_ከሆነ",
+    "if_smaller": "ያነሰ_ከሆነ",
+    "repeat": "ሉፕ",
+    "save": "ክተት",
+    "load": "አውጣ",
+    "call": "ጥራ",
+    "back": "ተመለስ",
+    "stop": "አቁም",
+    "wait": "ምንም"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

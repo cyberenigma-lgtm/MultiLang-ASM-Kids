@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Nahuatl / Mexicano (nah)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+huica counter 5
+
+launch_loop:
+tequitl_notza counter
+tlatzacuia counter 1
+tlanonotza counter 0
+amo_neneuh launch_loop
+
+; Blastoff!
+huica box 999
+tequitl_notza box

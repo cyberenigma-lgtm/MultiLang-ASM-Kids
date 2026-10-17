@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tamil / தமிழ் (ta)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+நகர்த்து counter 5
+
+launch_loop:
+அமைப்பு_அழைப்பு counter
+கழி counter 1
+ஒப்பிடு counter 0
+சமமில்லை_என்றால் launch_loop
+
+; Blastoff!
+நகர்த்து box 999
+அமைப்பு_அழைப்பு box

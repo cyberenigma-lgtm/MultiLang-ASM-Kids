@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Punjabi / ਪੰਜਾਬੀ (pa)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ਭੇਜੋ counter 5
+
+launch_loop:
+ਸਿਸਟਮ_ਕਾਲ counter
+ਘਟਾਓ counter 1
+ਤੁਲਨਾ counter 0
+if_different launch_loop
+
+; Blastoff!
+ਭੇਜੋ box 999
+ਸਿਸਟਮ_ਕਾਲ box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Occitan / Lenga d'òc (oc)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+desplaçar counter 5
+
+launch_loop:
+sonada_sistema counter
+sustraire counter 1
+comparar counter 0
+if_different launch_loop
+
+; Blastoff!
+desplaçar box 999
+sonada_sistema box

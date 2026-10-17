@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Somali / Soomaali (so)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+rari counter 5
+
+launch_loop:
+yeeritaanka_nidaamka counter
+ka_jar counter 1
+isbarbardhig counter 0
+if_different launch_loop
+
+; Blastoff!
+rari box 999
+yeeritaanka_nidaamka box

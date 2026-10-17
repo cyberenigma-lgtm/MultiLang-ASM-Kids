@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Guarani / Avañe'ẽ (gn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mbohasa counter 5
+
+launch_loop:
+henoi_sistema counter
+mbogue counter 1
+mbojoja counter 0
+if_different launch_loop
+
+; Blastoff!
+mbohasa box 999
+henoi_sistema box

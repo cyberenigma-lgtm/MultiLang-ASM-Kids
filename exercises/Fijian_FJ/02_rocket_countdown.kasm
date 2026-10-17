@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Fijian / Na Vosa Vakaviti (fj)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+tosoya counter 5
+
+launch_loop:
+kaci_ni_ivakarau counter
+kauta_tani counter 1
+vakatautauvatataka counter 0
+if_different launch_loop
+
+; Blastoff!
+tosoya box 999
+kaci_ni_ivakarau box

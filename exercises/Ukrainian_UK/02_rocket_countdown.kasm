@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Ukrainian / Українська (uk)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+polozhy lichylnyk 5
+
+launch_loop:
+pokazhy lichylnyk
+vidnyaty lichylnyk 1
+porivnyay lichylnyk 0
+yakshcho_rizne launch_loop
+
+; Blastoff!
+polozhy korobka 999
+pokazhy korobka

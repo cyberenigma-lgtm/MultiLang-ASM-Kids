@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Igbo (ig)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+bugharịa counter 5
+
+launch_loop:
+nkpọ_usoro counter
+wepụ counter 1
+tụnyere counter 0
+ma_ọ_bụrụ_na_anaghị_nhata launch_loop
+
+; Blastoff!
+bugharịa box 999
+nkpọ_usoro box

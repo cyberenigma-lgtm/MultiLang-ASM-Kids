@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "English (Texas)",
+    "code": "en_tx",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for English (Texas)"
+  },
+  "kids_verbs": {
+    "put": "hitch",
+    "add": "roundup",
+    "take": "cut",
+    "mul": "stampede",
+    "div": "carve",
+    "show": "spy",
+    "jump": "mosey",
+    "compare": "reckon",
+    "if_equal": "if_even",
+    "if_different": "if_cockeyed",
+    "if_greater": "if_bigger",
+    "if_smaller": "if_puny",
+    "repeat": "circle_back",
+    "save": "stash_holster",
+    "load": "draw",
+    "call": "holler",
+    "back": "head_home",
+    "stop": "whoa",
+    "wait": "hold_yer_horses"
+  },
+  "friendly_registers": {
+    "box": "crate",
+    "box2": "crate2",
+    "counter": "notch",
+    "box3": "crate3",
+    "box4": "crate4",
+    "box5": "crate5"
+  }
+}

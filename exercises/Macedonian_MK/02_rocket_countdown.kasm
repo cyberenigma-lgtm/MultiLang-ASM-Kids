@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Macedonian / Македонски (mk)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+премести counter 5
+
+launch_loop:
+системски_повик counter
+одземи counter 1
+спореди counter 0
+if_different launch_loop
+
+; Blastoff!
+премести box 999
+системски_повик box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Bulgarian / Български (bg)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+премести counter 5
+
+launch_loop:
+системно_повикване counter
+извади counter 1
+сравни counter 0
+ако_различно launch_loop
+
+; Blastoff!
+премести box 999
+системно_повикване box

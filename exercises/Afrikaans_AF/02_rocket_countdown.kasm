@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Afrikaans (af)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+skuif counter 5
+
+launch_loop:
+stelselroep counter
+trek_af counter 1
+vergelyk counter 0
+as_nie_gelyk launch_loop
+
+; Blastoff!
+skuif box 999
+stelselroep box

@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Tamil / தமிழ் (ta)
+; MultiLang-ASM Kids
+; ==========================================
+
+நகர்த்து box 10       ; Put 10 candies in the box
+கூட்டு box 5        ; Get 5 more candies (15)
+கழி box 2        ; Eat 2 candies (13 left!)
+அமைப்பு_அழைப்பு box         ; Show the final candy count!

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Portuguese / Português",
+    "code": "pt",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Portuguese / Português"
+  },
+  "kids_verbs": {
+    "put": "coloca",
+    "add": "soma",
+    "take": "tira",
+    "mul": "multiplica",
+    "div": "divide",
+    "show": "mostra",
+    "jump": "pula",
+    "compare": "compara",
+    "if_equal": "se_igual",
+    "if_different": "se_diferente",
+    "if_greater": "se_maior",
+    "if_smaller": "se_menor",
+    "repeat": "repita",
+    "save": "salve",
+    "load": "recupere",
+    "call": "chame",
+    "back": "volte",
+    "stop": "pare",
+    "wait": "espere"
+  },
+  "friendly_registers": {
+    "box": "caixa",
+    "box2": "caixa2",
+    "counter": "contador",
+    "box3": "caixa3",
+    "box4": "caixa4",
+    "box5": "caixa5"
+  }
+}

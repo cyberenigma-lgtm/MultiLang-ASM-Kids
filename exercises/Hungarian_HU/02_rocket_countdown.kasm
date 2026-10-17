@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Hungarian / Magyar (hu)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mozgat counter 5
+
+launch_loop:
+rendszerhivas counter
+kivon counter 1
+osszehasonlit counter 0
+ha_nem_egyenlo launch_loop
+
+; Blastoff!
+mozgat box 999
+rendszerhivas box

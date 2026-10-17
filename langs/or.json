@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Odia / ଓଡ଼ିଆ",
+    "code": "or",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Odia / ଓଡ଼ିଆ"
+  },
+  "kids_verbs": {
+    "put": "ଘୁଞ୍ଚାଅ",
+    "add": "ଯୋଡ଼",
+    "take": "ଫେଡ଼",
+    "mul": "ଗୁଣନ",
+    "div": "ହରଣ",
+    "show": "ସିଷ୍ଟମ_କଲ୍",
+    "jump": "ଡେଇଁବା",
+    "compare": "ତୁଳନା",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ଚକ୍ର",
+    "save": "ରଖନ୍ତୁ",
+    "load": "କାଢ଼ନ୍ତୁ",
+    "call": "ଡାକନ୍ତୁ",
+    "back": "ଫେରସ୍ତ",
+    "stop": "ଅଟକନ୍ତୁ",
+    "wait": "କିଛି_ନାହିଁ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

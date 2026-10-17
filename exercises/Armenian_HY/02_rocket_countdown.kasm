@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Armenian / Հայերեն (hy)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+տեղափոխել counter 5
+
+launch_loop:
+համակարգային_կանչ counter
+հանել counter 1
+համեմատել counter 0
+if_different launch_loop
+
+; Blastoff!
+տեղափոխել box 999
+համակարգային_կանչ box

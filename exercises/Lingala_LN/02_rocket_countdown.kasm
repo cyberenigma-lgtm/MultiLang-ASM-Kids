@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Lingala (ln)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+boma counter 5
+
+launch_loop:
+kobienga_ebongiseli counter
+longola counter 1
+mekanisa counter 0
+if_different launch_loop
+
+; Blastoff!
+boma box 999
+kobienga_ebongiseli box

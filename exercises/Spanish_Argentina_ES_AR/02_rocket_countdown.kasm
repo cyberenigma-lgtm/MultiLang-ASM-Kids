@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Spanish (Argentina) / Español (Argentina) (es_ar)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mover counter 5
+
+launch_loop:
+aviso_sistema counter
+restar counter 1
+comparar counter 0
+si_es_distinto launch_loop
+
+; Blastoff!
+mover box 999
+aviso_sistema box

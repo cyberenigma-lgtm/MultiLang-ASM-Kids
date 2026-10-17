@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Chinese / 中文",
+    "code": "zh",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Chinese / 中文"
+  },
+  "kids_verbs": {
+    "put": "fang",
+    "add": "jia",
+    "take": "jian",
+    "mul": "cheng",
+    "div": "chu",
+    "show": "kan",
+    "jump": "tiao",
+    "compare": "bi",
+    "if_equal": "ru_tong",
+    "if_different": "bu_tong",
+    "if_greater": "da_yu",
+    "if_smaller": "xiao_yu",
+    "repeat": "chongfu",
+    "save": "cun",
+    "load": "qu",
+    "call": "hu",
+    "back": "fan",
+    "stop": "ting",
+    "wait": "deng"
+  },
+  "friendly_registers": {
+    "box": "he",
+    "box2": "he2",
+    "counter": "jishu",
+    "box3": "he3",
+    "box4": "he4",
+    "box5": "he5"
+  }
+}

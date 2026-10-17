@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tagalog / Filipino (tl)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+lagay pambilang 5
+
+launch_loop:
+pakita pambilang
+bawas pambilang 1
+ihambing pambilang 0
+kung_iba launch_loop
+
+; Blastoff!
+lagay kahon 999
+pakita kahon

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Southern Ndebele / isiNdebele (nr)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+tjhugulula counter 5
+
+launch_loop:
+ukubiza_isistimu counter
+susa counter 1
+mannisa counter 0
+if_different launch_loop
+
+; Blastoff!
+tjhugulula box 999
+ukubiza_isistimu box

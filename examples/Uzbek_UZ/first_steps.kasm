@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Uzbek / O'zbek (uz)
+; MultiLang-ASM Kids
+; ==========================================
+
+kochir box 10       ; Put 10 candies in the box
+qosh box 5        ; Get 5 more candies (15)
+ayir box 2        ; Eat 2 candies (13 left!)
+tizim_chaqiruvi box         ; Show the final candy count!

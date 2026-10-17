@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Latin / Latina (la)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+movere counter 5
+
+launch_loop:
+vocatio_systematis counter
+subtrahere counter 1
+comparare counter 0
+if_different launch_loop
+
+; Blastoff!
+movere box 999
+vocatio_systematis box

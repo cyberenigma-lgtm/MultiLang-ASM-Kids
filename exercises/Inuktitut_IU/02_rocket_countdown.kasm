@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Inuktitut / ᐃᓄᒃᑎᑐᑦ (iu)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ᓅᑎᕆᕗᖅ counter 5
+
+launch_loop:
+ᖃᕆᑕᐅᔭᐅᑉ_ᑐᒃᓯᕋᐅᑎᖓ counter
+ᐃᓚᖔᖅᐹ counter 1
+ᐊᔾᔨᒌᖕᓂᖏᑦ counter 0
+if_different launch_loop
+
+; Blastoff!
+ᓅᑎᕆᕗᖅ box 999
+ᖃᕆᑕᐅᔭᐅᑉ_ᑐᒃᓯᕋᐅᑎᖓ box

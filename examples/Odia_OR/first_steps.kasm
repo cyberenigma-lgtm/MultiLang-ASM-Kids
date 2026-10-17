@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Odia / ଓଡ଼ିଆ (or)
+; MultiLang-ASM Kids
+; ==========================================
+
+ଘୁଞ୍ଚାଅ box 10       ; Put 10 candies in the box
+ଯୋଡ଼ box 5        ; Get 5 more candies (15)
+ଫେଡ଼ box 2        ; Eat 2 candies (13 left!)
+ସିଷ୍ଟମ_କଲ୍ box         ; Show the final candy count!

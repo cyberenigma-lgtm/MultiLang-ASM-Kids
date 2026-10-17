@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Galician / Galego",
+    "code": "gl",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Galician / Galego"
+  },
+  "kids_verbs": {
+    "put": "mover",
+    "add": "sumar",
+    "take": "restar",
+    "mul": "multiplicar",
+    "div": "dividir",
+    "show": "chamada_sistema",
+    "jump": "saltar",
+    "compare": "comparar",
+    "if_equal": "se_igual",
+    "if_different": "se_non_igual",
+    "if_greater": "se_maior",
+    "if_smaller": "se_menor",
+    "repeat": "bucle",
+    "save": "meter",
+    "load": "sacar",
+    "call": "chamar",
+    "back": "retornar",
+    "stop": "deter",
+    "wait": "nada"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Somali / Soomaali",
+    "code": "so",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Somali / Soomaali"
+  },
+  "kids_verbs": {
+    "put": "rari",
+    "add": "ku_dar",
+    "take": "ka_jar",
+    "mul": "ku_dhufo",
+    "div": "u_qaybi",
+    "show": "yeeritaanka_nidaamka",
+    "jump": "bood",
+    "compare": "isbarbardhig",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "wareeg",
+    "save": "geli",
+    "load": "saar",
+    "call": "wac",
+    "back": "soo_noqo",
+    "stop": "joogso",
+    "wait": "waxba"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Cantonese / 粵語",
+    "code": "yue",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Cantonese / 粵語"
+  },
+  "kids_verbs": {
+    "put": "搬",
+    "add": "加",
+    "take": "減",
+    "mul": "乘",
+    "div": "除",
+    "show": "叫系統",
+    "jump": "跳",
+    "compare": "比",
+    "if_equal": "如果等",
+    "if_different": "如果唔等",
+    "if_greater": "如果大",
+    "if_smaller": "如果細",
+    "repeat": "圈",
+    "save": "推入",
+    "load": "彈出",
+    "call": "叫",
+    "back": "返",
+    "stop": "停",
+    "wait": "乜都唔做"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

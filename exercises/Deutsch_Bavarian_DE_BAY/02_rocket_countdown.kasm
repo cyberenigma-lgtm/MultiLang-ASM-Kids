@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Deutsch (Bavarian) (de_bay)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pack zehla 5
+
+launch_loop:
+schau zehla
+weg zehla 1
+schaug_o zehla 0
+wanns_ned_basst launch_loop
+
+; Blastoff!
+pack kistn 999
+schau kistn

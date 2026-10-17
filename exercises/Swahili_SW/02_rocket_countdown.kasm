@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Swahili / Kiswahili (sw)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+weka kihesabu 5
+
+launch_loop:
+onyesha kihesabu
+toa kihesabu 1
+linganisha kihesabu 0
+ikiwa_tofauti launch_loop
+
+; Blastoff!
+weka sanduku 999
+onyesha sanduku

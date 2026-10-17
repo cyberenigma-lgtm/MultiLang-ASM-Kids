@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Hindi / हिन्दी",
+    "code": "hi",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Hindi / हिन्दी"
+  },
+  "kids_verbs": {
+    "put": "rakho",
+    "add": "jodo",
+    "take": "ghatao",
+    "mul": "guna",
+    "div": "bhag",
+    "show": "dikhao",
+    "jump": "kudo",
+    "compare": "tulna",
+    "if_equal": "agar_barabar",
+    "if_different": "agar_alag",
+    "if_greater": "agar_bada",
+    "if_smaller": "agar_chota",
+    "repeat": "dohrao",
+    "save": "bachao",
+    "load": "nikalo",
+    "call": "bulao",
+    "back": "wapas",
+    "stop": "ruko",
+    "wait": "thehro"
+  },
+  "friendly_registers": {
+    "box": "dibba",
+    "box2": "dibba2",
+    "counter": "ginak",
+    "box3": "dibba3",
+    "box4": "dibba4",
+    "box5": "dibba5"
+  }
+}

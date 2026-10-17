@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Fijian / Na Vosa Vakaviti (fj)
+; MultiLang-ASM Kids
+; ==========================================
+
+tosoya box 10       ; Put 10 candies in the box
+kuria box 5        ; Get 5 more candies (15)
+kauta_tani box 2        ; Eat 2 candies (13 left!)
+kaci_ni_ivakarau box         ; Show the final candy count!

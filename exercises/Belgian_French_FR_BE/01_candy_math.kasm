@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Belgian French / Français (Belgique) (fr_be)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'appel_systeme'!
+
+copier box 7
+; TODO: Add 8 using 'ajouter'
+; TODO: Subtract 4 using 'soustraire'
+; TODO: Show the result using 'appel_systeme'

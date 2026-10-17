@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Cantonese / 粵語 (yue)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using '叫系統'!
+
+搬 box 7
+; TODO: Add 8 using '加'
+; TODO: Subtract 4 using '減'
+; TODO: Show the result using '叫系統'

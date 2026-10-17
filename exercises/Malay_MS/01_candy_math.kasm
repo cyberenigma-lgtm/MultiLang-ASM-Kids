@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Malay / Bahasa Melayu (ms)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'kotak'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'tunjuk'!
+
+letak kotak 7
+; TODO: Add 8 using 'tambah'
+; TODO: Subtract 4 using 'tolak'
+; TODO: Show the result using 'tunjuk'

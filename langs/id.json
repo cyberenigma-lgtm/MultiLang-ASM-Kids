@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Indonesian / Bahasa Indonesia",
+    "code": "id",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Indonesian / Bahasa Indonesia"
+  },
+  "kids_verbs": {
+    "put": "taruh",
+    "add": "tambah",
+    "take": "kurang",
+    "mul": "kali",
+    "div": "bagi",
+    "show": "tampil",
+    "jump": "lompat",
+    "compare": "bandingkan",
+    "if_equal": "jika_sama",
+    "if_different": "jika_beda",
+    "if_greater": "jika_lebih_besar",
+    "if_smaller": "jika_lebih_kecil",
+    "repeat": "ulangi",
+    "save": "simpan",
+    "load": "muat",
+    "call": "panggil",
+    "back": "kembali",
+    "stop": "berhenti",
+    "wait": "tunggu"
+  },
+  "friendly_registers": {
+    "box": "kotak",
+    "box2": "kotak2",
+    "counter": "penghitung",
+    "box3": "kotak3",
+    "box4": "kotak4",
+    "box5": "kotak5"
+  }
+}

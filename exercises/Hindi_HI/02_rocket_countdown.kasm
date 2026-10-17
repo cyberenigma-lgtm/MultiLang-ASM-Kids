@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Hindi / हिन्दी (hi)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+rakho ginak 5
+
+launch_loop:
+dikhao ginak
+ghatao ginak 1
+tulna ginak 0
+agar_alag launch_loop
+
+; Blastoff!
+rakho dibba 999
+dikhao dibba

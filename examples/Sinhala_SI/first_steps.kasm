@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Sinhala / සිංහල (si)
+; MultiLang-ASM Kids
+; ==========================================
+
+ගෙනියන්න box 10       ; Put 10 candies in the box
+එකතු_කරන්න box 5        ; Get 5 more candies (15)
+අඩු_කරන්න box 2        ; Eat 2 candies (13 left!)
+පද්ධති_ඇමතුම box         ; Show the final candy count!

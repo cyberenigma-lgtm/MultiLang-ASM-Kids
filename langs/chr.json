@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Cherokee / ᏣᎳᎩ",
+    "code": "chr",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Cherokee / ᏣᎳᎩ"
+  },
+  "kids_verbs": {
+    "put": "ᎦᏅᏍᏙᏗ",
+    "add": "ᎠᏛᎯᏍᏙᏗ",
+    "take": "ᎠᏓᏅᏖᏗ",
+    "mul": "ᎠᏠᏯᏍᏗ",
+    "div": "ᎠᏯᏙᎯᏍᏗ",
+    "show": "ᎠᏂᏏᏍᏗ_ᎤᎵᏍᎨᏛ",
+    "jump": "ᎠᎵᏖᎸᏗ",
+    "compare": "ᎠᏟᎶᏍᏗ",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ᎦᏛᏗ",
+    "save": "ᎦᎶᎯᏍᏗ",
+    "load": "ᎦᏂᎩᏛ",
+    "call": "ᎠᏯᏂᏍᏗ",
+    "back": "ᎤᏨᏒ",
+    "stop": "ᎤᎴᏅᏛ",
+    "wait": "Ꮭ_ᎪᎱᏍᏗ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

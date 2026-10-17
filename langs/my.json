@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Burmese / မြန်မာစာ",
+    "code": "my",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Burmese / မြန်မာစာ"
+  },
+  "kids_verbs": {
+    "put": "ရွှေ့",
+    "add": "ပေါင်း",
+    "take": "နှုတ်",
+    "mul": "မြှောက်",
+    "div": "စား",
+    "show": "စနစ်ခေါ်ဆိုမှု",
+    "jump": "ခုန်",
+    "compare": "နှိုင်းယှဉ်",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ပတ်လမ်း",
+    "save": "ထည့်",
+    "load": "ထုတ်",
+    "call": "ခေါ်",
+    "back": "ပြန်",
+    "stop": "ရပ်",
+    "wait": "ဘာမှမရှိ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

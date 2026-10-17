@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in English (Cockney) (en_cockney)
+; MultiLang-ASM Kids
+; ==========================================
+
+stash tin 10       ; Put 10 candies in the box
+lob tin 5        ; Get 5 more candies (15)
+nick tin 2        ; Eat 2 candies (13 left!)
+gawk tin         ; Show the final candy count!

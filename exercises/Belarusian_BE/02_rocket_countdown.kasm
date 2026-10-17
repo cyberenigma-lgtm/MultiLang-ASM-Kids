@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Belarusian / Беларуская (be)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+перамясціць counter 5
+
+launch_loop:
+сістэмны_выклік counter
+адняць counter 1
+параўнаць counter 0
+if_different launch_loop
+
+; Blastoff!
+перамясціць box 999
+сістэмны_выклік box

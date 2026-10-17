@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Tajik / Тоҷикӣ (tg)
+; MultiLang-ASM Kids
+; ==========================================
+
+кӯчонидан box 10       ; Put 10 candies in the box
+чамъ_кардан box 5        ; Get 5 more candies (15)
+тарҳ_кардан box 2        ; Eat 2 candies (13 left!)
+даъвати_системавӣ box         ; Show the final candy count!

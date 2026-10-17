@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Persian / فارسی (fa)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+bezor shomarande 5
+
+launch_loop:
+neshon shomarande
+kam shomarande 1
+moghayeze shomarande 0
+agar_mokhtalef launch_loop
+
+; Blastoff!
+bezor jabe 999
+neshon jabe

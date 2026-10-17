@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Slovak / Slovenčina (sk)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+presunut counter 5
+
+launch_loop:
+systemove_volanie counter
+odpocitat counter 1
+porovnat counter 0
+ak_nerovne launch_loop
+
+; Blastoff!
+presunut box 999
+systemove_volanie box

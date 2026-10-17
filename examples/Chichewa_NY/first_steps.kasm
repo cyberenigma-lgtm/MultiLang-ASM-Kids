@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Chichewa / Nyanja (ny)
+; MultiLang-ASM Kids
+; ==========================================
+
+suntha box 10       ; Put 10 candies in the box
+onjezani box 5        ; Get 5 more candies (15)
+chotsani box 2        ; Eat 2 candies (13 left!)
+kuitana_makina box         ; Show the final candy count!

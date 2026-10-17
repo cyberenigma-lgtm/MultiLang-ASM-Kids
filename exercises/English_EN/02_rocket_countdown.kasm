@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: English (en)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+put counter 5
+
+launch_loop:
+look counter
+take counter 1
+compare counter 0
+if_different launch_loop
+
+; Blastoff!
+put box 999
+look box

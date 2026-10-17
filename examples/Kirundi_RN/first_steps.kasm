@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Kirundi (rn)
+; MultiLang-ASM Kids
+; ==========================================
+
+yimura box 10       ; Put 10 candies in the box
+ongerako box 5        ; Get 5 more candies (15)
+kuraho box 2        ; Eat 2 candies (13 left!)
+ihamagara_ry_uburyo box         ; Show the final candy count!

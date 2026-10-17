@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Serbian / Српски",
+    "code": "sr",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Serbian / Српски"
+  },
+  "kids_verbs": {
+    "put": "премести",
+    "add": "сабери",
+    "take": "одузми",
+    "mul": "помножи",
+    "div": "подели",
+    "show": "системски_позив",
+    "jump": "скочи",
+    "compare": "упореди",
+    "if_equal": "ако_једнако",
+    "if_different": "ако_није",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "петља",
+    "save": "гурни",
+    "load": "извуци",
+    "call": "позови",
+    "back": "врати",
+    "stop": "заустави",
+    "wait": "ништа"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Dutch / Nederlands",
+    "code": "nl",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Dutch / Nederlands"
+  },
+  "kids_verbs": {
+    "put": "zet",
+    "add": "tel_op",
+    "take": "trek_af",
+    "mul": "vermenigvuldig",
+    "div": "deel",
+    "show": "toon",
+    "jump": "spring",
+    "compare": "vergelijk",
+    "if_equal": "als_gelijk",
+    "if_different": "als_anders",
+    "if_greater": "als_groter",
+    "if_smaller": "als_kleiner",
+    "repeat": "herhaal",
+    "save": "bewaar",
+    "load": "laad",
+    "call": "roep",
+    "back": "terug",
+    "stop": "stop",
+    "wait": "wacht"
+  },
+  "friendly_registers": {
+    "box": "doos",
+    "box2": "doos2",
+    "counter": "teller",
+    "box3": "doos3",
+    "box4": "doos4",
+    "box5": "doos5"
+  }
+}

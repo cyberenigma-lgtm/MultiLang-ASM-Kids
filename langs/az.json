@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Azerbaijani / Azərbaycan",
+    "code": "az",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Azerbaijani / Azərbaycan"
+  },
+  "kids_verbs": {
+    "put": "köçür",
+    "add": "əlavə_et",
+    "take": "çıx",
+    "mul": "vur",
+    "div": "böl",
+    "show": "sistem_zəngi",
+    "jump": "tullan",
+    "compare": "müqayisə_et",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "dövr",
+    "save": "itələ",
+    "load": "çıxart",
+    "call": "çağır",
+    "back": "qayıt",
+    "stop": "dayan",
+    "wait": "heç_nə"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

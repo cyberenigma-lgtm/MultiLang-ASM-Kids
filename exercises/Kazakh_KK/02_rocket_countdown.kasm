@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kazakh / Қазақ тілі (kk)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+жылжыту counter 5
+
+launch_loop:
+жүйелік_шақыру counter
+азайту counter 1
+салыстыру counter 0
+if_different launch_loop
+
+; Blastoff!
+жылжыту box 999
+жүйелік_шақыру box

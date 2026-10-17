@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Cantonese / 粵語 (yue)
+; MultiLang-ASM Kids
+; ==========================================
+
+搬 box 10       ; Put 10 candies in the box
+加 box 5        ; Get 5 more candies (15)
+減 box 2        ; Eat 2 candies (13 left!)
+叫系統 box         ; Show the final candy count!

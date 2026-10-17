@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Scottish English / Scots (en_sc)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pit counter 5
+
+launch_loop:
+cry_system counter
+dock counter 1
+neer counter 0
+gin_no_equal launch_loop
+
+; Blastoff!
+pit box 999
+cry_system box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Serbian / Српски (sr)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+премести counter 5
+
+launch_loop:
+системски_позив counter
+одузми counter 1
+упореди counter 0
+ако_није launch_loop
+
+; Blastoff!
+премести box 999
+системски_позив box

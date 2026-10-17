@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Ganda / Luganda (lg)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sindiika counter 5
+
+launch_loop:
+omulanga_gw_enkola counter
+toolako counter 1
+geraageranya counter 0
+if_different launch_loop
+
+; Blastoff!
+sindiika box 999
+omulanga_gw_enkola box

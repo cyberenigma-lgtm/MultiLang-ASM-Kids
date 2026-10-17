@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Bengali / বাংলা (bn)
+; MultiLang-ASM Kids
+; ==========================================
+
+সরানো box 10       ; Put 10 candies in the box
+যোগ box 5        ; Get 5 more candies (15)
+বিয়োগ box 2        ; Eat 2 candies (13 left!)
+সিস্টেম_কল box         ; Show the final candy count!

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Swedish / Svenska (sv)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+stall raknare 5
+
+launch_loop:
+visa raknare
+dra_av raknare 1
+jamfor raknare 0
+om_olika launch_loop
+
+; Blastoff!
+stall lada 999
+visa lada

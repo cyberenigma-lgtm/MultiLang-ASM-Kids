@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Quechua / Runa Simi (qu)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+astay counter 5
+
+launch_loop:
+llanu_waqyay counter
+qichuy counter 1
+tupachiy counter 0
+mana_kaqlla launch_loop
+
+; Blastoff!
+astay box 999
+llanu_waqyay box

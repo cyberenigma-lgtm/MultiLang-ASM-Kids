@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Luo / Dholuo",
+    "code": "luo",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Luo / Dholuo"
+  },
+  "kids_verbs": {
+    "put": "gol",
+    "add": "med",
+    "take": "gol_kuom",
+    "mul": "nyuol",
+    "div": "pok",
+    "show": "luongo_mar_chenro",
+    "jump": "chik",
+    "compare": "pim",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "kikwette",
+    "save": "ket_iye",
+    "load": "gol_oko",
+    "call": "luong",
+    "back": "dog",
+    "stop": "chung'",
+    "wait": "onge_gimoro"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

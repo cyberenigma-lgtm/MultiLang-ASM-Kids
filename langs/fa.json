@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Persian / فارسی",
+    "code": "fa",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Persian / فارسی"
+  },
+  "kids_verbs": {
+    "put": "bezor",
+    "add": "jam",
+    "take": "kam",
+    "mul": "zarb",
+    "div": "taghsim",
+    "show": "neshon",
+    "jump": "bepar",
+    "compare": "moghayeze",
+    "if_equal": "agar_barabar",
+    "if_different": "agar_mokhtalef",
+    "if_greater": "agar_bozorgtar",
+    "if_smaller": "agar_kuchiktar",
+    "repeat": "tekrar",
+    "save": "zakhire",
+    "load": "bardar",
+    "call": "seda",
+    "back": "bargasht",
+    "stop": "ist",
+    "wait": "sabr"
+  },
+  "friendly_registers": {
+    "box": "jabe",
+    "box2": "jabe2",
+    "counter": "shomarande",
+    "box3": "jabe3",
+    "box4": "jabe4",
+    "box5": "jabe5"
+  }
+}

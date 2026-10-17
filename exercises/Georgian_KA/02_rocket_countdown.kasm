@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Georgian / ქართული (ka)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+გადატანა counter 5
+
+launch_loop:
+სისტემური_ზარი counter
+გამოკლება counter 1
+შედარება counter 0
+if_different launch_loop
+
+; Blastoff!
+გადატანა box 999
+სისტემური_ზარი box

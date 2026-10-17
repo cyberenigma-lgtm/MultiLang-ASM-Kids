@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Scottish Gaelic / Gàidhlig (gd)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+gluais counter 5
+
+launch_loop:
+gairm_siostam counter
+toir_air_falbh counter 1
+coimeas counter 0
+if_different launch_loop
+
+; Blastoff!
+gluais box 999
+gairm_siostam box

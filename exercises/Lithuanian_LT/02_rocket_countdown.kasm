@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Lithuanian / Lietuvių (lt)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+perkelti counter 5
+
+launch_loop:
+sisteminis_iskvietimas counter
+atimti counter 1
+palyginti counter 0
+if_different launch_loop
+
+; Blastoff!
+perkelti box 999
+sisteminis_iskvietimas box

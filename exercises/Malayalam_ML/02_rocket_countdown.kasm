@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Malayalam / മലയാളം (ml)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+നീക്കുക counter 5
+
+launch_loop:
+സിസ്റ്റം_കോൾ counter
+കുറയ്ക്കുക counter 1
+താരതമ്യം counter 0
+if_different launch_loop
+
+; Blastoff!
+നീക്കുക box 999
+സിസ്റ്റം_കോൾ box

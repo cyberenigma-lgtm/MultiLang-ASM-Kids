@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Greenlandic / Kalaallisut (kl)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+nussorpaa counter 5
+
+launch_loop:
+atortup_qaaqqussutaa counter
+peerpaa counter 1
+nalilersorpaa counter 0
+if_different launch_loop
+
+; Blastoff!
+nussorpaa box 999
+atortup_qaaqqussutaa box

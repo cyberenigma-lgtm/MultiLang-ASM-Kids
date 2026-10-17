@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Scottish Gaelic / Gàidhlig (gd)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'gairm_siostam'!
+
+gluais box 7
+; TODO: Add 8 using 'cuir_ris'
+; TODO: Subtract 4 using 'toir_air_falbh'
+; TODO: Show the result using 'gairm_siostam'

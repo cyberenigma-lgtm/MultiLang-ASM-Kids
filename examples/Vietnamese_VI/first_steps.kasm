@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Vietnamese / Tiếng Việt (vi)
+; MultiLang-ASM Kids
+; ==========================================
+
+dat hop 10       ; Put 10 candies in the box
+them hop 5        ; Get 5 more candies (15)
+tru hop 2        ; Eat 2 candies (13 left!)
+hien hop         ; Show the final candy count!

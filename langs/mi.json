@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Maori / Te Reo Māori",
+    "code": "mi",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Maori / Te Reo Māori"
+  },
+  "kids_verbs": {
+    "put": "neke",
+    "add": "tāpiri",
+    "take": "tango",
+    "mul": "whakarea",
+    "div": "wehe",
+    "show": "karanga_pūnaha",
+    "jump": "peke",
+    "compare": "whakataurite",
+    "if_equal": "mehemea_rite",
+    "if_different": "mehemea_kore_rite",
+    "if_greater": "mehemea_nui",
+    "if_smaller": "mehemea_iti",
+    "repeat": "koropiko",
+    "save": "tene",
+    "load": "unu",
+    "call": "karanga",
+    "back": "hoki",
+    "stop": "whakamutu",
+    "wait": "kahore"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

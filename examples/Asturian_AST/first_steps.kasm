@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Asturian / Asturianu (ast)
+; MultiLang-ASM Kids
+; ==========================================
+
+mover box 10       ; Put 10 candies in the box
+amestar box 5        ; Get 5 more candies (15)
+restar box 2        ; Eat 2 candies (13 left!)
+llamada_sistema box         ; Show the final candy count!

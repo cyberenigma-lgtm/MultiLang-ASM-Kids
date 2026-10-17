@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Basque / Euskara",
+    "code": "eu",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Basque / Euskara"
+  },
+  "kids_verbs": {
+    "put": "mugitu",
+    "add": "gehitu",
+    "take": "kendu",
+    "mul": "biderkatu",
+    "div": "zatitu",
+    "show": "sistema_deia",
+    "jump": "jauzi",
+    "compare": "konparatu",
+    "if_equal": "berdina_bada",
+    "if_different": "ez_berdina_bada",
+    "if_greater": "handiagoa_bada",
+    "if_smaller": "txikiagoa_bada",
+    "repeat": "begizta",
+    "save": "sartu",
+    "load": "atera",
+    "call": "deitu",
+    "back": "itzuli",
+    "stop": "gelditu",
+    "wait": "ezer_ez"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

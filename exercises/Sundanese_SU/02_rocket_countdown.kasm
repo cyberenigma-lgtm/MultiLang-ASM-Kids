@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Sundanese / Basa Sunda (su)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+pindah counter 5
+
+launch_loop:
+gero_sistem counter
+kurang counter 1
+banding counter 0
+lamun_beda launch_loop
+
+; Blastoff!
+pindah box 999
+gero_sistem box

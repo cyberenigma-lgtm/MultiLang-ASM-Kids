@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Bulgarian / Български",
+    "code": "bg",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Bulgarian / Български"
+  },
+  "kids_verbs": {
+    "put": "премести",
+    "add": "добави",
+    "take": "извади",
+    "mul": "умножи",
+    "div": "раздели",
+    "show": "системно_повикване",
+    "jump": "скочи",
+    "compare": "сравни",
+    "if_equal": "ако_равно",
+    "if_different": "ако_различно",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "цикъл",
+    "save": "постави",
+    "load": "извади_стек",
+    "call": "извикай",
+    "back": "върни",
+    "stop": "спри",
+    "wait": "нищо"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kyrgyz / Кыргызча (ky)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+жылдыруу counter 5
+
+launch_loop:
+системалык_чакыруу counter
+кемитүү counter 1
+салыштыруу counter 0
+if_different launch_loop
+
+; Blastoff!
+жылдыруу box 999
+системалык_чакыруу box

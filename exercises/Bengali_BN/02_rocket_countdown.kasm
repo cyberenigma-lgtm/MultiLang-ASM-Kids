@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Bengali / বাংলা (bn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+সরানো counter 5
+
+launch_loop:
+সিস্টেম_কল counter
+বিয়োগ counter 1
+তুলনা counter 0
+যদি_অসমান launch_loop
+
+; Blastoff!
+সরানো box 999
+সিস্টেম_কল box

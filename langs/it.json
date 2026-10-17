@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Italian / Italiano",
+    "code": "it",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Italian / Italiano"
+  },
+  "kids_verbs": {
+    "put": "metti",
+    "add": "aggiungi",
+    "take": "togli",
+    "mul": "moltiplica",
+    "div": "dividi",
+    "show": "mostra",
+    "jump": "salta",
+    "compare": "confronta",
+    "if_equal": "se_uguale",
+    "if_different": "se_diverso",
+    "if_greater": "se_maggiore",
+    "if_smaller": "se_minore",
+    "repeat": "ripeti",
+    "save": "salva",
+    "load": "recupera",
+    "call": "chiama",
+    "back": "torna",
+    "stop": "ferma",
+    "wait": "aspetta"
+  },
+  "friendly_registers": {
+    "box": "scatola",
+    "box2": "scatola2",
+    "counter": "contatore",
+    "box3": "scatola3",
+    "box4": "scatola4",
+    "box5": "scatola5"
+  }
+}

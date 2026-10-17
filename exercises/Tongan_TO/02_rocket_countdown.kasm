@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tongan / Lea Faka-Tonga (to)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+hiki counter 5
+
+launch_loop:
+ui_fakatoka counter
+toʻo counter 1
+fakafanongo counter 0
+if_different launch_loop
+
+; Blastoff!
+hiki box 999
+ui_fakatoka box

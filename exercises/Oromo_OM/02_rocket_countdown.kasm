@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Oromo / Afaan Oromoo (om)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sochoosi counter 5
+
+launch_loop:
+waamicha_sirnaa counter
+hir'isi counter 1
+walbira_qabi counter 0
+if_different launch_loop
+
+; Blastoff!
+sochoosi box 999
+waamicha_sirnaa box

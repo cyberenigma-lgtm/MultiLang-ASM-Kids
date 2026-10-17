@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Luo / Dholuo (luo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+gol counter 5
+
+launch_loop:
+luongo_mar_chenro counter
+gol_kuom counter 1
+pim counter 0
+if_different launch_loop
+
+; Blastoff!
+gol box 999
+luongo_mar_chenro box

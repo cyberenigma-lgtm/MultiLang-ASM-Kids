@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Aymara (ay)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+kuna counter 5
+
+launch_loop:
+sistema_jawsaña counter
+apaqaña counter 1
+kipkaña counter 0
+jani_kipka launch_loop
+
+; Blastoff!
+kuna box 999
+sistema_jawsaña box

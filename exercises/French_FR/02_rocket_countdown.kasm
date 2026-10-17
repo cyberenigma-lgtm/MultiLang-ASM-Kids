@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: French / Français (fr)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mets compteur 5
+
+launch_loop:
+montre compteur
+enleve compteur 1
+compare compteur 0
+si_different launch_loop
+
+; Blastoff!
+mets boite 999
+montre boite

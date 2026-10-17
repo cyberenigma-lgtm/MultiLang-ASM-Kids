@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Polish / Polski",
+    "code": "pl",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Polish / Polski"
+  },
+  "kids_verbs": {
+    "put": "wsadz",
+    "add": "dodaj",
+    "take": "odejmij",
+    "mul": "pomnoz",
+    "div": "podziel",
+    "show": "pokaz",
+    "jump": "skocz",
+    "compare": "porownaj",
+    "if_equal": "jesli_rowne",
+    "if_different": "jesli_rozne",
+    "if_greater": "jesli_wieksze",
+    "if_smaller": "jesli_mniejsze",
+    "repeat": "powtarzaj",
+    "save": "zapisz",
+    "load": "wczytaj",
+    "call": "wolaj",
+    "back": "wroc",
+    "stop": "stoj",
+    "wait": "czekaj"
+  },
+  "friendly_registers": {
+    "box": "pudelko",
+    "box2": "pudelko2",
+    "counter": "licznik",
+    "box3": "pudelko3",
+    "box4": "pudelko4",
+    "box5": "pudelko5"
+  }
+}

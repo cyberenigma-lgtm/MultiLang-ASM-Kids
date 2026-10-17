@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Dutch / Nederlands (nl)
+; MultiLang-ASM Kids
+; ==========================================
+
+zet doos 10       ; Put 10 candies in the box
+tel_op doos 5        ; Get 5 more candies (15)
+trek_af doos 2        ; Eat 2 candies (13 left!)
+toon doos         ; Show the final candy count!

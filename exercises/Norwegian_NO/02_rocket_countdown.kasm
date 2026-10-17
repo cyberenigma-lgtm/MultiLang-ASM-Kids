@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Norwegian / Norsk (no)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+flytt counter 5
+
+launch_loop:
+systemkall counter
+trekk_fra counter 1
+sammenlign counter 0
+hvis_ikke_lik launch_loop
+
+; Blastoff!
+flytt box 999
+systemkall box

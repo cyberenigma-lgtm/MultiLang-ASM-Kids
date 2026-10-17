@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tsonga / Xitsonga (ts)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+fambisa counter 5
+
+launch_loop:
+vitano_ra_sisiteme counter
+susa counter 1
+pimanisa counter 0
+if_different launch_loop
+
+; Blastoff!
+fambisa box 999
+vitano_ra_sisiteme box

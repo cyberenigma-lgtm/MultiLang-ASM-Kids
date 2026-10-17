@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Scottish Gaelic / Gàidhlig",
+    "code": "gd",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Scottish Gaelic / Gàidhlig"
+  },
+  "kids_verbs": {
+    "put": "gluais",
+    "add": "cuir_ris",
+    "take": "toir_air_falbh",
+    "mul": "iomadaich",
+    "div": "roinn",
+    "show": "gairm_siostam",
+    "jump": "leum",
+    "compare": "coimeas",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "lùb",
+    "save": "put",
+    "load": "tarraing",
+    "call": "gairm",
+    "back": "till",
+    "stop": "stad",
+    "wait": "dad"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

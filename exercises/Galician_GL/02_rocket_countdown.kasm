@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Galician / Galego (gl)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mover counter 5
+
+launch_loop:
+chamada_sistema counter
+restar counter 1
+comparar counter 0
+se_non_igual launch_loop
+
+; Blastoff!
+mover box 999
+chamada_sistema box

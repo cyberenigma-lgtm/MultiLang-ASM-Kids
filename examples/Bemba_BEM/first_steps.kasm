@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Bemba / ChiBemba (bem)
+; MultiLang-ASM Kids
+; ==========================================
+
+selesha box 10       ; Put 10 candies in the box
+lundapo box 5        ; Get 5 more candies (15)
+fumyapo box 2        ; Eat 2 candies (13 left!)
+ita_system box         ; Show the final candy count!

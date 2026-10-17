@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Nepali / नेपाली",
+    "code": "ne",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Nepali / नेपाली"
+  },
+  "kids_verbs": {
+    "put": "सार्नुहोस्",
+    "add": "जोड्नुहोस्",
+    "take": "घटाउनुहोस्",
+    "mul": "गुणन_गर्नुहोस्",
+    "div": "भाग_गर्नुहोस्",
+    "show": "प्रणाली_कल",
+    "jump": "उफ्रनुहोस्",
+    "compare": "तुलना_गर्नुहोस्",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "लुप",
+    "save": "राख्नुहोस्",
+    "load": "निकाल्नुहोस्",
+    "call": "बोलाउनुहोस्",
+    "back": "फर्कनुहोस्",
+    "stop": "रोक्नुहोस्",
+    "wait": "केही_छैन"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

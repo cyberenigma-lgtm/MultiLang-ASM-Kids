@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Aymara",
+    "code": "ay",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Aymara"
+  },
+  "kids_verbs": {
+    "put": "kuna",
+    "add": "yapaña",
+    "take": "apaqaña",
+    "mul": "mirayaña",
+    "div": "jaljaña",
+    "show": "sistema_jawsaña",
+    "jump": "t'it'iña",
+    "compare": "kipkaña",
+    "if_equal": "kipka_hina",
+    "if_different": "jani_kipka",
+    "if_greater": "aswan_jach'a",
+    "if_smaller": "aswan_jisk'a",
+    "repeat": "muyuta",
+    "save": "uchuqaña",
+    "load": "apsuña",
+    "call": "jawsaña",
+    "back": "kutiña",
+    "stop": "sayayaña",
+    "wait": "jani_kunnasa"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

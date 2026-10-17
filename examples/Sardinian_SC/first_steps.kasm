@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Sardinian / Sardu (sc)
+; MultiLang-ASM Kids
+; ==========================================
+
+movimentare box 10       ; Put 10 candies in the box
+azunghere box 5        ; Get 5 more candies (15)
+bogare box 2        ; Eat 2 candies (13 left!)
+ciamadore_sistema box         ; Show the final candy count!

@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Sundanese / Basa Sunda (su)
+; MultiLang-ASM Kids
+; ==========================================
+
+pindah box 10       ; Put 10 candies in the box
+tambah box 5        ; Get 5 more candies (15)
+kurang box 2        ; Eat 2 candies (13 left!)
+gero_sistem box         ; Show the final candy count!

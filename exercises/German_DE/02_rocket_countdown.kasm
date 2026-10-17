@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: German / Deutsch (de)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+setze zahler 5
+
+launch_loop:
+zeige zahler
+ziehe_ab zahler 1
+vergleiche zahler 0
+wenn_verschieden launch_loop
+
+; Blastoff!
+setze kiste 999
+zeige kiste

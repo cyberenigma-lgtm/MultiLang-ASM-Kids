@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Latin / Latina",
+    "code": "la",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Latin / Latina"
+  },
+  "kids_verbs": {
+    "put": "movere",
+    "add": "addere",
+    "take": "subtrahere",
+    "mul": "multiplicare",
+    "div": "dividere",
+    "show": "vocatio_systematis",
+    "jump": "saltare",
+    "compare": "comparare",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "circulus",
+    "save": "trudere",
+    "load": "trahere",
+    "call": "vocare",
+    "back": "redire",
+    "stop": "sistere",
+    "wait": "nihil"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

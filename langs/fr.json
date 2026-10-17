@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "French / Français",
+    "code": "fr",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for French / Français"
+  },
+  "kids_verbs": {
+    "put": "mets",
+    "add": "ajoute",
+    "take": "enleve",
+    "mul": "multiplie",
+    "div": "divise",
+    "show": "montre",
+    "jump": "saute",
+    "compare": "compare",
+    "if_equal": "si_egal",
+    "if_different": "si_different",
+    "if_greater": "si_plus_grand",
+    "if_smaller": "si_plus_petit",
+    "repeat": "repete",
+    "save": "sauve",
+    "load": "recupere",
+    "call": "appelle",
+    "back": "reviens",
+    "stop": "arrete",
+    "wait": "attends"
+  },
+  "friendly_registers": {
+    "box": "boite",
+    "box2": "boite2",
+    "counter": "compteur",
+    "box3": "boite3",
+    "box4": "boite4",
+    "box5": "boite5"
+  }
+}

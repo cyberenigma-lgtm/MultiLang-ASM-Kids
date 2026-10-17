@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Irish / Gaeilge (ga)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+bog counter 5
+
+launch_loop:
+glaoch_córais counter
+dealú counter 1
+cuir_i_gcomparáid counter 0
+mura_ionann launch_loop
+
+; Blastoff!
+bog box 999
+glaoch_córais box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Belgian French / Français (Belgique) (fr_be)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+copier counter 5
+
+launch_loop:
+appel_systeme counter
+soustraire counter 1
+comparer counter 0
+si_pas_egal launch_loop
+
+; Blastoff!
+copier box 999
+appel_systeme box

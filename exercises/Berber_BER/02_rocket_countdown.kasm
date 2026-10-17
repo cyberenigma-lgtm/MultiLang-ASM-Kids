@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Berber / Tamazight (ber)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sihel counter 5
+
+launch_loop:
+siwel_unagraw counter
+ekkes counter 1
+zer counter 0
+ma_ur_igda launch_loop
+
+; Blastoff!
+sihel box 999
+siwel_unagraw box

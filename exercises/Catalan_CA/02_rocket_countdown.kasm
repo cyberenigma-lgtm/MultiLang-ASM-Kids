@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Catalan / Català (ca)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+moure counter 5
+
+launch_loop:
+crida_sistema counter
+restar counter 1
+comparar counter 0
+si_no_igual launch_loop
+
+; Blastoff!
+moure box 999
+crida_sistema box

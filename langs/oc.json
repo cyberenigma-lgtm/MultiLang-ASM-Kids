@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Occitan / Lenga d'òc",
+    "code": "oc",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Occitan / Lenga d'òc"
+  },
+  "kids_verbs": {
+    "put": "desplaçar",
+    "add": "apondre",
+    "take": "sustraire",
+    "mul": "multiplicar",
+    "div": "devesir",
+    "show": "sonada_sistema",
+    "jump": "sautar",
+    "compare": "comparar",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "bocla",
+    "save": "empenher",
+    "load": "traire",
+    "call": "sonar",
+    "back": "retornar",
+    "stop": "arrestar",
+    "wait": "ren"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

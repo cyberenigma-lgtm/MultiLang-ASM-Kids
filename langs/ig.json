@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Igbo",
+    "code": "ig",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Igbo"
+  },
+  "kids_verbs": {
+    "put": "bugharịa",
+    "add": "tinye",
+    "take": "wepụ",
+    "mul": "mụbaa",
+    "div": "kewa",
+    "show": "nkpọ_usoro",
+    "jump": "mali",
+    "compare": "tụnyere",
+    "if_equal": "ma_ọ_bụrụ_na_nhata",
+    "if_different": "ma_ọ_bụrụ_na_anaghị_nhata",
+    "if_greater": "ma_ọ_bụrụ_na_ka_ibu",
+    "if_smaller": "ma_ọ_bụrụ_na_ka_ntakị",
+    "repeat": "akaghị",
+    "save": "tinye_n'ime",
+    "load": "wepụ_n'ime",
+    "call": "kpọọ",
+    "back": "lọta",
+    "stop": "maka",
+    "wait": "ntakịrị"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

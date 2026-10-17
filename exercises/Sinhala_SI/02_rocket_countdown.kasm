@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Sinhala / සිංහල (si)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ගෙනියන්න counter 5
+
+launch_loop:
+පද්ධති_ඇමතුම counter
+අඩු_කරන්න counter 1
+සසඳන්න counter 0
+if_different launch_loop
+
+; Blastoff!
+ගෙනියන්න box 999
+පද්ධති_ඇමතුම box

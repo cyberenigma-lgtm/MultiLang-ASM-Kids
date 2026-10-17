@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Bengali / বাংলা",
+    "code": "bn",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Bengali / বাংলা"
+  },
+  "kids_verbs": {
+    "put": "সরানো",
+    "add": "যোগ",
+    "take": "বিয়োগ",
+    "mul": "গুণ",
+    "div": "ভাগ",
+    "show": "সিস্টেম_কল",
+    "jump": "লাফানো",
+    "compare": "তুলনা",
+    "if_equal": "যদি_সমান",
+    "if_different": "যদি_অসমান",
+    "if_greater": "если_больше",
+    "if_smaller": "যদি_ছোট",
+    "repeat": "লুপ",
+    "save": "পুশ",
+    "load": "পপ",
+    "call": "কল",
+    "back": "ফেরা",
+    "stop": "থামানো",
+    "wait": "কিছু_না"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

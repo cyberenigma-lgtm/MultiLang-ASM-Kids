@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Chinese / 中文 (zh)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+fang jishu 5
+
+launch_loop:
+kan jishu
+jian jishu 1
+bi jishu 0
+bu_tong launch_loop
+
+; Blastoff!
+fang he 999
+kan he

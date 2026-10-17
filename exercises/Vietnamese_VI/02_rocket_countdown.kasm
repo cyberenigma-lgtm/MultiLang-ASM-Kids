@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Vietnamese / Tiếng Việt (vi)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+dat bo_dem 5
+
+launch_loop:
+hien bo_dem
+tru bo_dem 1
+so_sanh bo_dem 0
+neu_khac launch_loop
+
+; Blastoff!
+dat hop 999
+hien hop

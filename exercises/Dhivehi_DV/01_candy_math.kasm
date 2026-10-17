@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Dhivehi / ދިވެހި (dv)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'ސިސްޓަމް_ކޯލް'!
+
+ބަދަލުކުރޭ box 7
+; TODO: Add 8 using 'އެއްކުރޭ'
+; TODO: Subtract 4 using 'ކަނޑާ'
+; TODO: Show the result using 'ސިސްޓަމް_ކޯލް'

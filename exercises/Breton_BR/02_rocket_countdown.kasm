@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Breton / Brezhoneg (br)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+fiñval counter 5
+
+launch_loop:
+galv_reizhiad counter
+tennañ counter 1
+keñveriañ counter 0
+if_different launch_loop
+
+; Blastoff!
+fiñval box 999
+galv_reizhiad box

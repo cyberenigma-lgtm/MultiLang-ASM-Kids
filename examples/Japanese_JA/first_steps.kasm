@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Japanese / 日本語 (ja)
+; MultiLang-ASM Kids
+; ==========================================
+
+irete hako 10       ; Put 10 candies in the box
+tashite hako 5        ; Get 5 more candies (15)
+hiite hako 2        ; Eat 2 candies (13 left!)
+misete hako         ; Show the final candy count!

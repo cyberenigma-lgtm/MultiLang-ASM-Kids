@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Uyghur / ئۇيغۇرچە (ug)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+يۆتكەش counter 5
+
+launch_loop:
+سىستېما_چاقىرىقى counter
+ئېلىش counter 1
+سېلىشتۇرۇش counter 0
+if_different launch_loop
+
+; Blastoff!
+يۆتكەش box 999
+سىستېما_چاقىرىقى box

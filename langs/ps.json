@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Pashto / پښتو",
+    "code": "ps",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Pashto / پښتو"
+  },
+  "kids_verbs": {
+    "put": "لږدول",
+    "add": "جمع_کول",
+    "take": "منفي_کول",
+    "mul": "ضرب_کول",
+    "div": "وېشل",
+    "show": "سیسټم_غوښتنه",
+    "jump": "ټوپ_وهل",
+    "compare": "پر پرتله_کول",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "څرخ",
+    "save": "دننه_کول",
+    "load": "بهر_کول",
+    "call": "بلل",
+    "back": "بیرته_راتلل",
+    "stop": "درېدل",
+    "wait": "هیڅ_نه"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

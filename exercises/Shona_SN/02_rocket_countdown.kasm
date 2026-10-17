@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Shona / ChiShona (sn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+fambisa counter 5
+
+launch_loop:
+kudana_sisitimu counter
+bvisa counter 1
+enzanisa counter 0
+if_different launch_loop
+
+; Blastoff!
+fambisa box 999
+kudana_sisitimu box

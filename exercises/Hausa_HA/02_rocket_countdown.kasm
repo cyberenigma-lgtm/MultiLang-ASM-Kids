@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Hausa (ha)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+motsa counter 5
+
+launch_loop:
+kiran_tsarin counter
+rage counter 1
+gwada counter 0
+idan_ba_daidai_ba launch_loop
+
+; Blastoff!
+motsa box 999
+kiran_tsarin box

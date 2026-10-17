@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Sundanese / Basa Sunda",
+    "code": "su",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Sundanese / Basa Sunda"
+  },
+  "kids_verbs": {
+    "put": "pindah",
+    "add": "tambah",
+    "take": "kurang",
+    "mul": "kali",
+    "div": "bagi",
+    "show": "gero_sistem",
+    "jump": "luncat",
+    "compare": "banding",
+    "if_equal": "lamun_sarua",
+    "if_different": "lamun_beda",
+    "if_greater": "lamun_gede",
+    "if_smaller": "lamun_leutik",
+    "repeat": "gelung",
+    "save": "asupkeun",
+    "load": "aluarkeun",
+    "call": "ngagero",
+    "back": "balik",
+    "stop": "eureun",
+    "wait": "kosong"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

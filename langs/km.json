@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Khmer / ភាសាខ្មែរ",
+    "code": "km",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Khmer / ភាសាខ្មែរ"
+  },
+  "kids_verbs": {
+    "put": "រំកិល",
+    "add": "បូក",
+    "take": "ដក",
+    "mul": "គុណ",
+    "div": "ចែក",
+    "show": "ការហៅប្រព័ន្ធ",
+    "jump": "លោត",
+    "compare": "ប្រៀបធៀប",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "រង្វិលជុំ",
+    "save": "រុញ",
+    "load": "ដកចេញ",
+    "call": "ហៅ",
+    "back": "ត្រឡប់",
+    "stop": "បញ្ឈប់",
+    "wait": "គ្មានអ្វី"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

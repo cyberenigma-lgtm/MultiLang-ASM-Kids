@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Zulu / isiZulu (zu)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+hambisa counter 5
+
+launch_loop:
+ukubizwa_kwesistimu counter
+susa counter 1
+qhathanisa counter 0
+uma_kungalingani launch_loop
+
+; Blastoff!
+hambisa box 999
+ukubizwa_kwesistimu box

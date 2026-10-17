@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Spanish (Mexico) / Español (México) (es_mx)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+mover counter 5
+
+launch_loop:
+llamada_sistema counter
+restar counter 1
+comparar counter 0
+si_no_igual launch_loop
+
+; Blastoff!
+mover box 999
+llamada_sistema box

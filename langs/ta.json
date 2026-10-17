@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Tamil / தமிழ்",
+    "code": "ta",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Tamil / தமிழ்"
+  },
+  "kids_verbs": {
+    "put": "நகர்த்து",
+    "add": "கூட்டு",
+    "take": "கழி",
+    "mul": "பெருக்கு",
+    "div": "வகு",
+    "show": "அமைப்பு_அழைப்பு",
+    "jump": "தாவு",
+    "compare": "ஒப்பிடு",
+    "if_equal": "சமம்_என்றால்",
+    "if_different": "சமமில்லை_என்றால்",
+    "if_greater": "பெரிது_என்றால்",
+    "if_smaller": "சிறிது_என்றால்",
+    "repeat": "சுழற்சி",
+    "save": "தள்ளு",
+    "load": "எடு",
+    "call": "அழை",
+    "back": "திரும்பு",
+    "stop": "நிறுத்து",
+    "wait": "ஒன்றுமில்லை"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

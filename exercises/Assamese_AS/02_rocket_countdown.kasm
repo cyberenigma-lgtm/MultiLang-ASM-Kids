@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Assamese / অসমীয়া (as)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+স্থানান্তৰ counter 5
+
+launch_loop:
+ব্যৱস্থাৰ_আহ্বান counter
+বিয়োগ_কৰক counter 1
+তুলনা_কৰক counter 0
+if_different launch_loop
+
+; Blastoff!
+স্থানান্তৰ box 999
+ব্যৱস্থাৰ_আহ্বান box

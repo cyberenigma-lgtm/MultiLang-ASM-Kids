@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Telugu / తెలుగు (te)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+మార్చు counter 5
+
+launch_loop:
+సిస్టమ్_కాల్ counter
+తీసివేయి counter 1
+పోల్చు counter 0
+సమానం_కాకపోతే launch_loop
+
+; Blastoff!
+మార్చు box 999
+సిస్టమ్_కాల్ box

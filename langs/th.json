@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Thai / ไทย",
+    "code": "th",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Thai / ไทย"
+  },
+  "kids_verbs": {
+    "put": "sai",
+    "add": "buak",
+    "take": "lop",
+    "mul": "khun",
+    "div": "han",
+    "show": "sadang",
+    "jump": "kradot",
+    "compare": "priap",
+    "if_equal": "tha_thao",
+    "if_different": "tha_tang",
+    "if_greater": "tha_mak",
+    "if_smaller": "tha_noi",
+    "repeat": "sam",
+    "save": "banthuk",
+    "load": "riak",
+    "call": "riak_chai",
+    "back": "klap",
+    "stop": "yut",
+    "wait": "ro"
+  },
+  "friendly_registers": {
+    "box": "klong",
+    "box2": "klong2",
+    "counter": "tuanap",
+    "box3": "klong3",
+    "box4": "klong4",
+    "box5": "klong5"
+  }
+}

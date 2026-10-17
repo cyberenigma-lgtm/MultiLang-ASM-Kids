@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Navajo / Diné bizaad (nav)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+yíłtsood counter 5
+
+launch_loop:
+beesh_bee_haneʼ counter
+bąąh_chʼéldzid counter 1
+ałhąąh counter 0
+if_different launch_loop
+
+; Blastoff!
+yíłtsood box 999
+beesh_bee_haneʼ box

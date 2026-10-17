@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Swati / SiSwati",
+    "code": "ss",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Swati / SiSwati"
+  },
+  "kids_verbs": {
+    "put": "gudluta",
+    "add": "engeta",
+    "take": "susa",
+    "mul": "phindzaphindza",
+    "div": "hlukanisa",
+    "show": "kubita_sisitemu",
+    "jump": "gcuma",
+    "compare": "qhathanisa",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "siyingi",
+    "save": "faka",
+    "load": "khipha",
+    "call": "bita",
+    "back": "buyela",
+    "stop": "yima",
+    "wait": "kute"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

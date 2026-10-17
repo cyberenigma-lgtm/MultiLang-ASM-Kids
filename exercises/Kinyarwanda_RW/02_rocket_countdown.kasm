@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kinyarwanda (rw)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+imura counter 5
+
+launch_loop:
+guhamagara_sisitemu counter
+kura counter 1
+gereranya counter 0
+if_different launch_loop
+
+; Blastoff!
+imura box 999
+guhamagara_sisitemu box

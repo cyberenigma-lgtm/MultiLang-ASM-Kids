@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Sesotho (st)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+suthisa counter 5
+
+launch_loop:
+piletso_ya_tsamaiso counter
+tlosa counter 1
+bapisa counter 0
+if_different launch_loop
+
+; Blastoff!
+suthisa box 999
+piletso_ya_tsamaiso box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Czech / Čeština (cs)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+presunout counter 5
+
+launch_loop:
+systemove_volani counter
+odecist counter 1
+porovnat counter 0
+pokud_nerovno launch_loop
+
+; Blastoff!
+presunout box 999
+systemove_volani box

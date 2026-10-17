@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Ukrainian / Українська",
+    "code": "uk",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Ukrainian / Українська"
+  },
+  "kids_verbs": {
+    "put": "polozhy",
+    "add": "dodaty",
+    "take": "vidnyaty",
+    "mul": "pomnozh",
+    "div": "podily",
+    "show": "pokazhy",
+    "jump": "strybay",
+    "compare": "porivnyay",
+    "if_equal": "yakshcho_rivno",
+    "if_different": "yakshcho_rizne",
+    "if_greater": "yakshcho_bilshe",
+    "if_smaller": "yakshcho_menshe",
+    "repeat": "povtory",
+    "save": "zberezhy",
+    "load": "vidnovy",
+    "call": "vyklychy",
+    "back": "povernys",
+    "stop": "stiy",
+    "wait": "pochekay"
+  },
+  "friendly_registers": {
+    "box": "korobka",
+    "box2": "korobka2",
+    "counter": "lichylnyk",
+    "box3": "korobka3",
+    "box4": "korobka4",
+    "box5": "korobka5"
+  }
+}

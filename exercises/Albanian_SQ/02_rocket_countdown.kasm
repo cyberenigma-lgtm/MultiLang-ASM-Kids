@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Albanian / Shqip (sq)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+leviz counter 5
+
+launch_loop:
+thirrje_sistemi counter
+zbrit counter 1
+krahaso counter 0
+if_different launch_loop
+
+; Blastoff!
+leviz box 999
+thirrje_sistemi box

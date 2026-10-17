@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Swedish / Svenska (sv)
+; MultiLang-ASM Kids
+; ==========================================
+
+stall lada 10       ; Put 10 candies in the box
+addera lada 5        ; Get 5 more candies (15)
+dra_av lada 2        ; Eat 2 candies (13 left!)
+visa lada         ; Show the final candy count!

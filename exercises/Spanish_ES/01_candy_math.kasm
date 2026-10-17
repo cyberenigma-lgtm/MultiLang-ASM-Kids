@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Spanish / Español (es)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'caja'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'enseña'!
+
+pon caja 7
+; TODO: Add 8 using 'suma'
+; TODO: Subtract 4 using 'resta'
+; TODO: Show the result using 'enseña'

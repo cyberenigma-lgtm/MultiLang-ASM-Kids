@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Irish / Gaeilge",
+    "code": "ga",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Irish / Gaeilge"
+  },
+  "kids_verbs": {
+    "put": "bog",
+    "add": "suimigh",
+    "take": "dealú",
+    "mul": "iolraigh",
+    "div": "roinn",
+    "show": "glaoch_córais",
+    "jump": "léim",
+    "compare": "cuir_i_gcomparáid",
+    "if_equal": "más_ionann",
+    "if_different": "mura_ionann",
+    "if_greater": "más_mó",
+    "if_smaller": "más_lú",
+    "repeat": "lúb",
+    "save": "brúigh",
+    "load": "pop",
+    "call": "glaoch",
+    "back": "filleadh",
+    "stop": "stad",
+    "wait": "tada"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

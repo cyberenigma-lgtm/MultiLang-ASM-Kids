@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Tajik / Тоҷикӣ (tg)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+кӯчонидан counter 5
+
+launch_loop:
+даъвати_системавӣ counter
+тарҳ_кардан counter 1
+муқоиса_кардан counter 0
+if_different launch_loop
+
+; Blastoff!
+кӯчонидан box 999
+даъвати_системавӣ box

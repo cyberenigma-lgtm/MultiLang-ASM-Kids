@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Venda / Tshivenḓa (ve)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'uvhidza_sisitemu'!
+
+sudzusa box 7
+; TODO: Add 8 using 'engedza'
+; TODO: Subtract 4 using 'tusa'
+; TODO: Show the result using 'uvhidza_sisitemu'

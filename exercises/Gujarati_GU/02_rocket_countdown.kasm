@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Gujarati / ગુજરાતી (gu)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ખસેડો counter 5
+
+launch_loop:
+સિસ્ટમ_કૉલ counter
+બાદ_કરો counter 1
+સરખામણી counter 0
+if_different launch_loop
+
+; Blastoff!
+ખસેડો box 999
+સિસ્ટમ_કૉલ box

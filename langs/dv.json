@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Dhivehi / ދިވެހި",
+    "code": "dv",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Dhivehi / ދިވެހި"
+  },
+  "kids_verbs": {
+    "put": "ބަދަލުކުރޭ",
+    "add": "އެއްކުރޭ",
+    "take": "ކަނޑާ",
+    "mul": "ގުނަކުރޭ",
+    "div": "ބަހާ",
+    "show": "ސިސްޓަމް_ކޯލް",
+    "jump": "ފުންމާ",
+    "compare": "އަޅާކިޔާ",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ބުރު",
+    "save": "ލާ",
+    "load": "ނަގާ",
+    "call": "ގޮވާ",
+    "back": "އަނބުރާ",
+    "stop": "ހުއްޓާ",
+    "wait": "އެއްވެސް_އެއްޗެއް_ނޫން"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

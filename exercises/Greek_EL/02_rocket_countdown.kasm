@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Greek / Ελληνικά (el)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+bale metritis 5
+
+launch_loop:
+diekse metritis
+afairese metritis 1
+sygkrine metritis 0
+an_diaforetiko launch_loop
+
+; Blastoff!
+bale kouti 999
+diekse kouti

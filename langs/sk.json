@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Slovak / Slovenčina",
+    "code": "sk",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Slovak / Slovenčina"
+  },
+  "kids_verbs": {
+    "put": "presunut",
+    "add": "pridat",
+    "take": "odpocitat",
+    "mul": "vynasobit",
+    "div": "vydelit",
+    "show": "systemove_volanie",
+    "jump": "skocit",
+    "compare": "porovnat",
+    "if_equal": "ak_rovne",
+    "if_different": "ak_nerovne",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "cyklus",
+    "save": "vlozit",
+    "load": "vybrat",
+    "call": "zavolat",
+    "back": "vratit",
+    "stop": "zastavit",
+    "wait": "nic"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Spanish / Español (es)
+; MultiLang-ASM Kids
+; ==========================================
+
+pon caja 10       ; Put 10 candies in the box
+suma caja 5        ; Get 5 more candies (15)
+resta caja 2        ; Eat 2 candies (13 left!)
+enseña caja         ; Show the final candy count!

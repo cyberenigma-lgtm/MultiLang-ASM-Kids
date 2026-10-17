@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Turkish / Türkçe",
+    "code": "tr",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Turkish / Türkçe"
+  },
+  "kids_verbs": {
+    "put": "koy",
+    "add": "ekle",
+    "take": "cikar",
+    "mul": "carp",
+    "div": "bol",
+    "show": "goster",
+    "jump": "atla",
+    "compare": "karsilas",
+    "if_equal": "esitse",
+    "if_different": "farkliysa",
+    "if_greater": "buyukse",
+    "if_smaller": "kucukse",
+    "repeat": "tekrarla",
+    "save": "sakla",
+    "load": "al",
+    "call": "cagir",
+    "back": "don",
+    "stop": "dur",
+    "wait": "bekle"
+  },
+  "friendly_registers": {
+    "box": "kutu",
+    "box2": "kutu2",
+    "counter": "sayac",
+    "box3": "kutu3",
+    "box4": "kutu4",
+    "box5": "kutu5"
+  }
+}

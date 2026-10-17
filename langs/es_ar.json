@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Spanish (Argentina) / Español (Argentina)",
+    "code": "es_ar",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Spanish (Argentina) / Español (Argentina)"
+  },
+  "kids_verbs": {
+    "put": "mover",
+    "add": "sumar",
+    "take": "restar",
+    "mul": "multiplicar",
+    "div": "dividir",
+    "show": "aviso_sistema",
+    "jump": "saltar",
+    "compare": "comparar",
+    "if_equal": "si_es_igual",
+    "if_different": "si_es_distinto",
+    "if_greater": "si_es_mayor",
+    "if_smaller": "si_es_menor",
+    "repeat": "vuelta",
+    "save": "empujar",
+    "load": "sacar",
+    "call": "llamar",
+    "back": "volver",
+    "stop": "cortar",
+    "wait": "nada"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

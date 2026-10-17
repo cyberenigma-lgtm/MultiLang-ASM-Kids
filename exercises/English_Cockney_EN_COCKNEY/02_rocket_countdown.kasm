@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: English (Cockney) (en_cockney)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+stash ticker 5
+
+launch_loop:
+gawk ticker
+nick ticker 1
+clock ticker 0
+if_dodgy launch_loop
+
+; Blastoff!
+stash tin 999
+gawk tin

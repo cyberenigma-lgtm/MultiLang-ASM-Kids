@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Mongolian / Монгол (mn)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+зөөх counter 5
+
+launch_loop:
+системийн_дуудалт counter
+хасах counter 1
+харьцуулах counter 0
+if_different launch_loop
+
+; Blastoff!
+зөөх box 999
+системийн_дуудалт box

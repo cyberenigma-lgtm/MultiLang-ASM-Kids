@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "English (Cockney)",
+    "code": "en_cockney",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for English (Cockney)"
+  },
+  "kids_verbs": {
+    "put": "stash",
+    "add": "lob",
+    "take": "nick",
+    "mul": "pile_on",
+    "div": "divvy",
+    "show": "gawk",
+    "jump": "scarper",
+    "compare": "clock",
+    "if_equal": "if_proper",
+    "if_different": "if_dodgy",
+    "if_greater": "if_heftier",
+    "if_smaller": "if_titchy",
+    "repeat": "go_again",
+    "save": "tuck_away",
+    "load": "fetch",
+    "call": "shout",
+    "back": "back_to_gaff",
+    "stop": "pack_it_in",
+    "wait": "hold_horses"
+  },
+  "friendly_registers": {
+    "box": "tin",
+    "box2": "tin2",
+    "counter": "ticker",
+    "box3": "tin3",
+    "box4": "tin4",
+    "box5": "tin5"
+  }
+}

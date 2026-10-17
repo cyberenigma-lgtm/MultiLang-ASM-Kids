@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Tok Pisin",
+    "code": "tpi",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Tok Pisin"
+  },
+  "kids_verbs": {
+    "put": "muvim",
+    "add": "plusim",
+    "take": "minusim",
+    "mul": "mulpim",
+    "div": "divim",
+    "show": "singaut_sistem",
+    "jump": "kalap",
+    "compare": "sekim",
+    "if_equal": "sapos_sem",
+    "if_different": "sapos_no_sem",
+    "if_greater": "sapos_bik",
+    "if_smaller": "sapos_liklik",
+    "repeat": "lup",
+    "save": "putim_insait",
+    "load": "autim",
+    "call": "singaut",
+    "back": "go_bek",
+    "stop": "pinis",
+    "wait": "nating"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

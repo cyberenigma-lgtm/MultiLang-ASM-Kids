@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Marathi / मराठी",
+    "code": "mr",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Marathi / मराठी"
+  },
+  "kids_verbs": {
+    "put": "हलवा",
+    "add": "बेरीज",
+    "take": "वजा",
+    "mul": "गुणा",
+    "div": "भागा",
+    "show": "सिस्टम_कॉल",
+    "jump": "उडी",
+    "compare": "तुलना",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "लूप",
+    "save": "टाका",
+    "load": "काढा",
+    "call": "कॉल",
+    "back": "परत",
+    "stop": "थांबा",
+    "wait": "काहीही_नाही"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

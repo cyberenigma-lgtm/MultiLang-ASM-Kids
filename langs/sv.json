@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Swedish / Svenska",
+    "code": "sv",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Swedish / Svenska"
+  },
+  "kids_verbs": {
+    "put": "stall",
+    "add": "addera",
+    "take": "dra_av",
+    "mul": "multiplicera",
+    "div": "dividera",
+    "show": "visa",
+    "jump": "hoppa",
+    "compare": "jamfor",
+    "if_equal": "om_lika",
+    "if_different": "om_olika",
+    "if_greater": "om_storre",
+    "if_smaller": "om_mindre",
+    "repeat": "upprepa",
+    "save": "spara",
+    "load": "hamta",
+    "call": "kalla",
+    "back": "tillbaka",
+    "stop": "stanna",
+    "wait": "vanta"
+  },
+  "friendly_registers": {
+    "box": "lada",
+    "box2": "lada2",
+    "counter": "raknare",
+    "box3": "lada3",
+    "box4": "lada4",
+    "box5": "lada5"
+  }
+}

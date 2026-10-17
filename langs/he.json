@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Hebrew / עברית",
+    "code": "he",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Hebrew / עברית"
+  },
+  "kids_verbs": {
+    "put": "sim",
+    "add": "hosef",
+    "take": "haser",
+    "mul": "hakhpel",
+    "div": "halk",
+    "show": "hare",
+    "jump": "kfotz",
+    "compare": "hasve",
+    "if_equal": "im_shave",
+    "if_different": "im_shone",
+    "if_greater": "im_gadol",
+    "if_smaller": "im_katan",
+    "repeat": "hazor",
+    "save": "shmor",
+    "load": "tean",
+    "call": "kra",
+    "back": "hazor_ahora",
+    "stop": "atzor",
+    "wait": "hamten"
+  },
+  "friendly_registers": {
+    "box": "kufsa",
+    "box2": "kufsa2",
+    "counter": "mone",
+    "box3": "kufsa3",
+    "box4": "kufsa4",
+    "box5": "kufsa5"
+  }
+}

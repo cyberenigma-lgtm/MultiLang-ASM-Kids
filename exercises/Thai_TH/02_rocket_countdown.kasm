@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Thai / ไทย (th)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sai tuanap 5
+
+launch_loop:
+sadang tuanap
+lop tuanap 1
+priap tuanap 0
+tha_tang launch_loop
+
+; Blastoff!
+sai klong 999
+sadang klong

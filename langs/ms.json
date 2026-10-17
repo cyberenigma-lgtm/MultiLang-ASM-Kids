@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Malay / Bahasa Melayu",
+    "code": "ms",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Malay / Bahasa Melayu"
+  },
+  "kids_verbs": {
+    "put": "letak",
+    "add": "tambah",
+    "take": "tolak",
+    "mul": "darab",
+    "div": "bahagi",
+    "show": "tunjuk",
+    "jump": "lompat",
+    "compare": "banding",
+    "if_equal": "jika_sama",
+    "if_different": "jika_beza",
+    "if_greater": "jika_besar",
+    "if_smaller": "jika_kecil",
+    "repeat": "ulang",
+    "save": "simpan",
+    "load": "muat",
+    "call": "panggil",
+    "back": "kembali",
+    "stop": "berhenti",
+    "wait": "tunggu"
+  },
+  "friendly_registers": {
+    "box": "kotak",
+    "box2": "kotak2",
+    "counter": "pembilang",
+    "box3": "kotak3",
+    "box4": "kotak4",
+    "box5": "kotak5"
+  }
+}

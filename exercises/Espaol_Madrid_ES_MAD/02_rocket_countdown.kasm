@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Español (Madrid) (es_mad)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+apanca marcador 5
+
+launch_loop:
+lipa marcador
+pilla marcador 1
+tasa marcador 0
+si_chungo launch_loop
+
+; Blastoff!
+apanca caja 999
+lipa caja

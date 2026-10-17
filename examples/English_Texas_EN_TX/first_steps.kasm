@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in English (Texas) (en_tx)
+; MultiLang-ASM Kids
+; ==========================================
+
+hitch crate 10       ; Put 10 candies in the box
+roundup crate 5        ; Get 5 more candies (15)
+cut crate 2        ; Eat 2 candies (13 left!)
+spy crate         ; Show the final candy count!

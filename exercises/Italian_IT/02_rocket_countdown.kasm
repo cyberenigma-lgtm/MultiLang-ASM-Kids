@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Italian / Italiano (it)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+metti contatore 5
+
+launch_loop:
+mostra contatore
+togli contatore 1
+confronta contatore 0
+se_diverso launch_loop
+
+; Blastoff!
+metti scatola 999
+mostra scatola

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Kongo / Kikongo (kg)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+natisa counter 5
+
+launch_loop:
+mbila_nkandikila counter
+katula counter 1
+fwanisa counter 0
+if_different launch_loop
+
+; Blastoff!
+natisa box 999
+mbila_nkandikila box

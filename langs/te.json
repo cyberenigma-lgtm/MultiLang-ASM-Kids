@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Telugu / తెలుగు",
+    "code": "te",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Telugu / తెలుగు"
+  },
+  "kids_verbs": {
+    "put": "మార్చు",
+    "add": "కలుపు",
+    "take": "తీసివేయి",
+    "mul": "గుణించు",
+    "div": "భాగించు",
+    "show": "సిస్టమ్_కాల్",
+    "jump": "దూకు",
+    "compare": "పోల్చు",
+    "if_equal": "సమానమైతే",
+    "if_different": "సమానం_కాకపోతే",
+    "if_greater": "ఎక్కువైతే",
+    "if_smaller": "తక్కువైతే",
+    "repeat": "లూప్",
+    "save": "నెట్టు",
+    "load": "తీయు",
+    "call": "పిలువు",
+    "back": "తిరిగి_రా",
+    "stop": "ఆపు",
+    "wait": "ఏమీ_లేదు"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

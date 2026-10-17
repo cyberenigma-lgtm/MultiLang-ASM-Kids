@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Afrikaans",
+    "code": "af",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Afrikaans"
+  },
+  "kids_verbs": {
+    "put": "skuif",
+    "add": "tel_by",
+    "take": "trek_af",
+    "mul": "vermenigvuldig",
+    "div": "deel",
+    "show": "stelselroep",
+    "jump": "spring",
+    "compare": "vergelyk",
+    "if_equal": "as_gelyk",
+    "if_different": "as_nie_gelyk",
+    "if_greater": "as_groter",
+    "if_smaller": "as_kleiner",
+    "repeat": "lus",
+    "save": "stoot",
+    "load": "haal",
+    "call": "roep",
+    "back": "keer_terug",
+    "stop": "stop",
+    "wait": "niks"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

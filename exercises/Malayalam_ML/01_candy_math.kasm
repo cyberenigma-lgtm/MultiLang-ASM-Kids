@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Malayalam / മലയാളം (ml)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'സിസ്റ്റം_കോൾ'!
+
+നീക്കുക box 7
+; TODO: Add 8 using 'കൂട്ടുക'
+; TODO: Subtract 4 using 'കുറയ്ക്കുക'
+; TODO: Show the result using 'സിസ്റ്റം_കോൾ'

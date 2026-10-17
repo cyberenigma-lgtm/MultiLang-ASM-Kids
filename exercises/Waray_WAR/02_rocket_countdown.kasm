@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Waray (war)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+balhina counter 5
+
+launch_loop:
+tawag_han_sistema counter
+kuhai counter 1
+itanding counter 0
+if_different launch_loop
+
+; Blastoff!
+balhina box 999
+tawag_han_sistema box

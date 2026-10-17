@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Lao / ພາສາລາວ",
+    "code": "lo",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Lao / ພາສາລາວ"
+  },
+  "kids_verbs": {
+    "put": "ຍ້າຍ",
+    "add": "ບວກ",
+    "take": "ລົບ",
+    "mul": "ຄູນ",
+    "div": "ຫານ",
+    "show": "ການເອີ້ນລະບົບ",
+    "jump": "ເຕັ້ນ",
+    "compare": "ປຽບທຽບ",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ຮອບວຽນ",
+    "save": "ໃສ່",
+    "load": "ດຶງອອກ",
+    "call": "ເອີ້ນ",
+    "back": "ກັບຄືນ",
+    "stop": "ຢຸດ",
+    "wait": "ບໍ່ມີຫຍັງ"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Swahili / Kiswahili",
+    "code": "sw",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Swahili / Kiswahili"
+  },
+  "kids_verbs": {
+    "put": "weka",
+    "add": "ongeza",
+    "take": "toa",
+    "mul": "zidisha",
+    "div": "gawanya",
+    "show": "onyesha",
+    "jump": "ruka",
+    "compare": "linganisha",
+    "if_equal": "ikiwa_sawa",
+    "if_different": "ikiwa_tofauti",
+    "if_greater": "ikiwa_kubwa",
+    "if_smaller": "ikiwa_ndogo",
+    "repeat": "rudia",
+    "save": "hifadhi",
+    "load": "pakua",
+    "call": "ita",
+    "back": "rudi",
+    "stop": "simama",
+    "wait": "subiri"
+  },
+  "friendly_registers": {
+    "box": "sanduku",
+    "box2": "sanduku2",
+    "counter": "kihesabu",
+    "box3": "sanduku3",
+    "box4": "sanduku4",
+    "box5": "sanduku5"
+  }
+}

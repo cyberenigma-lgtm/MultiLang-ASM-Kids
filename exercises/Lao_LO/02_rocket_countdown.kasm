@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Lao / ພາສາລາວ (lo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ຍ້າຍ counter 5
+
+launch_loop:
+ການເອີ້ນລະບົບ counter
+ລົບ counter 1
+ປຽບທຽບ counter 0
+if_different launch_loop
+
+; Blastoff!
+ຍ້າຍ box 999
+ການເອີ້ນລະບົບ box

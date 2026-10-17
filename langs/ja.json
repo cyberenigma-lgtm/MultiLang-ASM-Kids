@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Japanese / 日本語",
+    "code": "ja",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Japanese / 日本語"
+  },
+  "kids_verbs": {
+    "put": "irete",
+    "add": "tashite",
+    "take": "hiite",
+    "mul": "kakete",
+    "div": "watte",
+    "show": "misete",
+    "jump": "tonde",
+    "compare": "kurabete",
+    "if_equal": "onaji_nara",
+    "if_different": "chigau_nara",
+    "if_greater": "okii_nara",
+    "if_smaller": "chiisai_nara",
+    "repeat": "kurikaeshite",
+    "save": "nokoshite",
+    "load": "toridashite",
+    "call": "yonde",
+    "back": "modotte",
+    "stop": "tomare",
+    "wait": "matte"
+  },
+  "friendly_registers": {
+    "box": "hako",
+    "box2": "hako2",
+    "counter": "kanta",
+    "box3": "hako3",
+    "box4": "hako4",
+    "box5": "hako5"
+  }
+}

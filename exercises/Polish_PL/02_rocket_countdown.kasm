@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Polish / Polski (pl)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+wsadz licznik 5
+
+launch_loop:
+pokaz licznik
+odejmij licznik 1
+porownaj licznik 0
+jesli_rozne launch_loop
+
+; Blastoff!
+wsadz pudelko 999
+pokaz pudelko

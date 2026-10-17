@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Welsh / Cymraeg (cy)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+symud counter 5
+
+launch_loop:
+galwad_system counter
+tynnu counter 1
+cymharu counter 0
+if_different launch_loop
+
+; Blastoff!
+symud box 999
+galwad_system box

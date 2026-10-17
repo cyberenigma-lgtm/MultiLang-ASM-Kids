@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Persian / فارسی (fa)
+; MultiLang-ASM Kids
+; ==========================================
+
+bezor jabe 10       ; Put 10 candies in the box
+jam jabe 5        ; Get 5 more candies (15)
+kam jabe 2        ; Eat 2 candies (13 left!)
+neshon jabe         ; Show the final candy count!

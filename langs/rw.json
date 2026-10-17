@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Kinyarwanda",
+    "code": "rw",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Kinyarwanda"
+  },
+  "kids_verbs": {
+    "put": "imura",
+    "add": "ongera",
+    "take": "kura",
+    "mul": "gwandika",
+    "div": "gabanya",
+    "show": "guhamagara_sisitemu",
+    "jump": "simbuka",
+    "compare": "gereranya",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "uruziga",
+    "save": "shyiramo",
+    "load": "kuramo",
+    "call": "hamagara",
+    "back": "garuka",
+    "stop": "hagarara",
+    "wait": "ntakintu"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

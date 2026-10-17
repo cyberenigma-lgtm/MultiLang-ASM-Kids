@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Cherokee / ᏣᎳᎩ (chr)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+ᎦᏅᏍᏙᏗ counter 5
+
+launch_loop:
+ᎠᏂᏏᏍᏗ_ᎤᎵᏍᎨᏛ counter
+ᎠᏓᏅᏖᏗ counter 1
+ᎠᏟᎶᏍᏗ counter 0
+if_different launch_loop
+
+; Blastoff!
+ᎦᏅᏍᏙᏗ box 999
+ᎠᏂᏏᏍᏗ_ᎤᎵᏍᎨᏛ box

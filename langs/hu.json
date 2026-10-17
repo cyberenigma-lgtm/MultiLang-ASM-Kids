@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Hungarian / Magyar",
+    "code": "hu",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Hungarian / Magyar"
+  },
+  "kids_verbs": {
+    "put": "mozgat",
+    "add": "hozzaad",
+    "take": "kivon",
+    "mul": "szoroz",
+    "div": "oszt",
+    "show": "rendszerhivas",
+    "jump": "ugrik",
+    "compare": "osszehasonlit",
+    "if_equal": "ha_egyenlo",
+    "if_different": "ha_nem_egyenlo",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "ciklus",
+    "save": "betesz",
+    "load": "kivesz",
+    "call": "hiv",
+    "back": "visszater",
+    "stop": "megall",
+    "wait": "semmi"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

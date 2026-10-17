@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Icelandic / Íslenska (is)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+faera counter 5
+
+launch_loop:
+kerfiskall counter
+draga counter 1
+bera_saman counter 0
+if_different launch_loop
+
+; Blastoff!
+faera box 999
+kerfiskall box

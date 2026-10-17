@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "German / Deutsch",
+    "code": "de",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for German / Deutsch"
+  },
+  "kids_verbs": {
+    "put": "setze",
+    "add": "addiere",
+    "take": "ziehe_ab",
+    "mul": "mal",
+    "div": "teile",
+    "show": "zeige",
+    "jump": "springe",
+    "compare": "vergleiche",
+    "if_equal": "wenn_gleich",
+    "if_different": "wenn_verschieden",
+    "if_greater": "wenn_grosser",
+    "if_smaller": "wenn_kleiner",
+    "repeat": "wiederhole",
+    "save": "speichere",
+    "load": "lade",
+    "call": "rufe",
+    "back": "zuruck",
+    "stop": "halte",
+    "wait": "warte"
+  },
+  "friendly_registers": {
+    "box": "kiste",
+    "box2": "kiste2",
+    "counter": "zahler",
+    "box3": "kiste3",
+    "box4": "kiste4",
+    "box5": "kiste5"
+  }
+}

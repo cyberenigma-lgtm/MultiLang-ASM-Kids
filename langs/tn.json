@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "name": "Setswana",
+    "code": "tn",
+    "author": "MultiLang-ASM Kids Sovereign Project",
+    "version": "1.0.0",
+    "upl_grade": "kids_pedagogy",
+    "description": "Kids Assembly vocabulary for Setswana"
+  },
+  "kids_verbs": {
+    "put": "tsamaisa",
+    "add": "oketsa",
+    "take": "fokotsa",
+    "mul": "atafatsa",
+    "div": "kgaoganya",
+    "show": "pitso_ya_tsamaiso",
+    "jump": "tlola",
+    "compare": "tshwantshanya",
+    "if_equal": "if_equal",
+    "if_different": "if_different",
+    "if_greater": "if_greater",
+    "if_smaller": "if_smaller",
+    "repeat": "tidiko",
+    "save": "tsenya",
+    "load": "ntsha",
+    "call": "bipitsa",
+    "back": "boa",
+    "stop": "ema",
+    "wait": "ga_go_sepe"
+  },
+  "friendly_registers": {
+    "box": "box",
+    "box2": "box2",
+    "counter": "counter",
+    "box3": "box3",
+    "box4": "box4",
+    "box5": "box5"
+  }
+}

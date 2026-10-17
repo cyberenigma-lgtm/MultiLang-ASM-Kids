@@ -1,0 +1,13 @@
+; ==========================================
+; CHALLENGE 1: The Candy Calculator
+; Language: Serbian / Српски (sr)
+; ==========================================
+; 1. You start with 7 candies. Put 7 in 'box'.
+; 2. Your best friend gives you 8 more candies. Add 8!
+; 3. You share 4 candies with your sibling. Take away 4!
+; 4. Show the result on screen using 'системски_позив'!
+
+премести box 7
+; TODO: Add 8 using 'сабери'
+; TODO: Subtract 4 using 'одузми'
+; TODO: Show the result using 'системски_позив'

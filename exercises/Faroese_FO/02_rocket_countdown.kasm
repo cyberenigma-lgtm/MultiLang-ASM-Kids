@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Faroese / Føroyskt (fo)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+flyt counter 5
+
+launch_loop:
+skipanarkall counter
+drag_fra counter 1
+samanber counter 0
+if_different launch_loop
+
+; Blastoff!
+flyt box 999
+skipanarkall box

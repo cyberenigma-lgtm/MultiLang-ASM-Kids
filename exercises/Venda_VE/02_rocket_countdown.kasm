@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Venda / Tshivenḓa (ve)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+sudzusa counter 5
+
+launch_loop:
+uvhidza_sisitemu counter
+tusa counter 1
+vhambedza counter 0
+if_different launch_loop
+
+; Blastoff!
+sudzusa box 999
+uvhidza_sisitemu box

@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: English (Texas) (en_tx)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+hitch notch 5
+
+launch_loop:
+spy notch
+cut notch 1
+reckon notch 0
+if_cockeyed launch_loop
+
+; Blastoff!
+hitch crate 999
+spy crate

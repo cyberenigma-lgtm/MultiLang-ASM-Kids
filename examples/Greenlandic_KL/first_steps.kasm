@@ -1,0 +1,9 @@
+; ==========================================
+; First Steps in Greenlandic / Kalaallisut (kl)
+; MultiLang-ASM Kids
+; ==========================================
+
+nussorpaa box 10       ; Put 10 candies in the box
+ilannguppaa box 5        ; Get 5 more candies (15)
+peerpaa box 2        ; Eat 2 candies (13 left!)
+atortup_qaaqqussutaa box         ; Show the final candy count!

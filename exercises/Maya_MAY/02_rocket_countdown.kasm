@@ -1,0 +1,17 @@
+; ==========================================
+; CHALLENGE 2: Rocket Launch Countdown
+; Language: Maya / Maaya T'aan (may)
+; ==========================================
+; Count down from 5 to 1, then launch!
+
+túuxt counter 5
+
+launch_loop:
+t'an_sistema counter
+túul counter 1
+ket counter 0
+ma'_bey launch_loop
+
+; Blastoff!
+túuxt box 999
+t'an_sistema box
